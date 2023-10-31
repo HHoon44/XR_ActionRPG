@@ -1,0 +1,1287 @@
+﻿Log file open, 05/06/20 21:16:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ActionRPG
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.275728
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin SlateRemote
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.06-12.16.08:170][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.06-12.16.08:170][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.06-12.16.08:170][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Config/Windows/Engine.ini]
+[2020.05.06-12.16.08:170][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.06-12.16.08:170][  0]LogConfig: Setting CVar [[r.Mobile.TonemapperFilm:1]]
+[2020.05.06-12.16.08:170][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.05.06-12.16.08:170][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.05.06-12.16.08:170][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.DBuffer:0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.MobileMSAA:2]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:64]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.ShaderPipelineCache.Enabled:1]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.AllowVolumeTextureAssetCreation:1]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:1]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Config/Windows/Engine.ini]
+[2020.05.06-12.16.08:171][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Config/Windows/Engine.ini]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Config/Windows/Engine.ini]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.06-12.16.08:171][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Config/Windows/Engine.ini]
+[2020.05.06-12.16.08:171][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Config/Windows/Engine.ini]
+[2020.05.06-12.16.08:175][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-12.16.08:175][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.06-12.16.08:175][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.06-12.16.08:175][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-12.16.08:175][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.06-12.16.08:175][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-12.16.08:175][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.06-12.16.08:175][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.06-12.16.08:175][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.06-12.16.08:175][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.06-12.16.08:175][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.06-12.16.08:175][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.06-12.16.08:175][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.06-12.16.08:175][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.06-12.16.08:175][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.06-12.16.08:175][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.06-12.16.08:175][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.06-12.16.08:175][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.06-12.16.08:175][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.06-12.16.08:175][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.06-12.16.08:175][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.06-12.16.08:176][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.06-12.16.08:176][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.06-12.16.08:176][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.06-12.16.08:271][  0]LogHAL: Display: Platform has ~ 64 GB [68664737792 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.06-12.16.08:271][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.05.06-12.16.08:271][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.06-12.16.08:271][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-12.16.08:271][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.06-12.16.08:272][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.06-12.16.08:273][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.06-12.16.08:273][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.06-12.16.08:273][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.06-12.16.08:273][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-12.16.08:273][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.06-12.16.08:273][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.06-12.16.08:273][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.06-12.16.08:273][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.06-12.16.08:273][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.06-12.16.08:273][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Config/Windows/Engine.ini]
+[2020.05.06-12.16.08:273][  0]LogInit: Computer: DESKTOP-VGGF8D8
+[2020.05.06-12.16.08:273][  0]LogInit: User: djdur
+[2020.05.06-12.16.08:273][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.06-12.16.08:273][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.06-12.16.08:273][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2020.05.06-12.16.08:273][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.06-12.16.08:273][  0]LogMemory: Process Physical Memory: 113.41 MB used, 117.98 MB peak
+[2020.05.06-12.16.08:273][  0]LogMemory: Process Virtual Memory: 102.07 MB used, 102.07 MB peak
+[2020.05.06-12.16.08:273][  0]LogMemory: Physical Memory: 7539.61 MB used,  57944.19 MB free, 65483.80 MB total
+[2020.05.06-12.16.08:273][  0]LogMemory: Virtual Memory: 4641.95 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2020.05.06-12.16.08:297][  0]LogInit: Overriding language with editor language configuration option (ko).
+[2020.05.06-12.16.08:297][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.05.06-12.16.08:297][  0]LogInit: Using OS detected locale (ko-KR).
+[2020.05.06-12.16.08:363][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.06-12.16.08:438][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.06-12.16.08:438][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.06-12.16.08:726][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.06-12.16.08:797][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.05.06-12.16.08:797][  0]LogD3D11RHI:       8088/0/32741 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.06-12.16.08:800][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.06-12.16.08:800][  0]LogD3D11RHI:       0/0/32741 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.06-12.16.08:800][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.06-12.16.08:806][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.06-12.16.08:806][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.06-12.16.08:806][  0]LogWindows: EnumDisplayDevices:
+[2020.05.06-12.16.08:806][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.05.06-12.16.08:807][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.05.06-12.16.08:808][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.05.06-12.16.08:809][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.05.06-12.16.08:810][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.06-12.16.08:810][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.05.06-12.16.08:810][  0]LogD3D11RHI:   Driver Version: 441.66 (internal:26.21.14.4166, unified:441.66)
+[2020.05.06-12.16.08:810][  0]LogD3D11RHI:      Driver Date: 12-6-2019
+[2020.05.06-12.16.08:810][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.05.06-12.16.08:851][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.06-12.16.08:854][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.06-12.16.08:854][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.06-12.16.08:854][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.06-12.16.08:861][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.06-12.16.08:864][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061082).
+[2020.05.06-12.16.09:243][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.05.06-12.16.09:258][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.05.06-12.16.09:273][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.05.06-12.16.09:289][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.05.06-12.16.09:304][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.05.06-12.16.09:319][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.05.06-12.16.09:334][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.06-12.16.09:350][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.05.06-12.16.09:358][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.05.06-12.16.09:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.05.06-12.16.09:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.05.06-12.16.09:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.05.06-12.16.09:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.05.06-12.16.09:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.05.06-12.16.09:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.05.06-12.16.09:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.05.06-12.16.09:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.05.06-12.16.09:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.05.06-12.16.09:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.06-12.16.09:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.05.06-12.16.09:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.05.06-12.16.09:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.06-12.16.09:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.06-12.16.09:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.06-12.16.09:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.06-12.16.09:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.05.06-12.16.09:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.05.06-12.16.09:445][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.05.06-12.16.09:495][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.05.06-12.16.09:495][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.05.06-12.16.09:520][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.05.06-12.16.09:520][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.05.06-12.16.09:533][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.05.06-12.16.09:546][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.06-12.16.09:559][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.05.06-12.16.09:574][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.05.06-12.16.09:621][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.05.06-12.16.09:621][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.05.06-12.16.09:621][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.06-12.16.09:630][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.06-12.16.09:685][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Intermediate/Shaders/WorkingDirectory/20036/).
+[2020.05.06-12.16.09:685][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/djdur/AppData/Local/Temp/UnrealShaderWorkingDir/1ED934B441EE36BB384960970E11E002/'.
+[2020.05.06-12.16.09:687][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.06-12.16.09:688][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.06-12.16.09:688][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.06-12.16.10:191][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.06-12.16.10:213][  0]LogDerivedDataCache: Loaded boot cache 0.02s 40MB C:/Users/djdur/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.06-12.16.10:213][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/djdur/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.05.06-12.16.10:213][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.06-12.16.10:213][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.06-12.16.10:213][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.06-12.16.10:213][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.06-12.16.10:224][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.06-12.16.10:224][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.06-12.16.10:224][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.06-12.16.10:237][  0]LogDerivedDataCache: Using Local data cache path C:/Users/djdur/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.06-12.16.10:237][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.06-12.16.10:237][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.06-12.16.10:258][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.06-12.16.10:259][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.06-12.16.10:259][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.06-12.16.10:358][  0]LogAssetRegistry: FAssetRegistry took 0.0339 seconds to start up
+[2020.05.06-12.16.11:374][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.06-12.16.11:493][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.06-12.16.11:493][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.06-12.16.11:493][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.06-12.16.11:493][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.06-12.16.11:493][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.06-12.16.11:506][  0]LogNetVersion: ActionRPG 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3792473898)
+[2020.05.06-12.16.11:864][  0]LogPackageLocalizationCache: Processed 4 localized package path(s) for 1 prioritized culture(s) in 0.013582 seconds
+[2020.05.06-12.16.11:869][  0]LogUObjectArray: 40989 objects as part of root set at end of initial load.
+[2020.05.06-12.16.11:869][  0]LogUObjectAllocator: 7101464 out of 0 bytes used by permanent object pool.
+[2020.05.06-12.16.11:869][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.06-12.16.12:835][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.06-12.16.12:849][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.06-12.16.12:920][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.05.06-12.16.12:955][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.05.06-12.16.12:955][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.05.06-12.16.12:957][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.05.06-12.16.12:958][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.05.06-12.16.13:024][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.06-12.16.13:171][  0]LogEngine: Initializing Engine...
+[2020.05.06-12.16.13:329][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.06-12.16.13:339][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.06-12.16.13:439][  0]LogInit: XAudio2 using 'LG HDR 4K(2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.06-12.16.13:550][  0]LogInit: FAudioDevice initialized.
+[2020.05.06-12.16.13:551][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.06-12.16.13:570][  0]LogDerivedDataCache: Saved boot cache 0.02s 40MB C:/Users/djdur/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.06-12.16.13:570][  0]LogInit: Texture streaming: Enabled
+[2020.05.06-12.16.13:588][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.06-12.16.13:607][  0]LogInit: Transaction tracking system initialized
+[2020.05.06-12.16.13:636][  0]BlueprintLog: New page: 에디터 로드
+[2020.05.06-12.16.13:718][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2020.05.06-12.16.14:124][  0]LogFileCache: Scanning file cache for directory 'C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/' took 0.03s
+[2020.05.06-12.16.14:124][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.06-12.16.14:124][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.06-12.16.14:140][  0]LogStats: FGameplayAbilitiesEditorModule::GameplayTagTreeChanged -  0.000 s
+[2020.05.06-12.16.14:227][  0]LogStats: UGameplayCueManager::InitializeEditorObjectLibrary -  0.001 s
+[2020.05.06-12.16.14:264][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.05.06-12.16.14:264][  0]Cmd: MAP LOAD FILE="../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/0_UserGame/Maps/GameLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.06-12.16.14:264][  0]LightingResults: New page: 라이팅 빌드
+[2020.05.06-12.16.14:267][  0]MapCheck: New page: 맵 체크
+[2020.05.06-12.16.14:267][  0]LightingResults: New page: 라이팅 빌드
+[2020.05.06-12.16.14:289][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.05.06-12.16.14:410][  0]LogAIModule: Creating AISystem for world GameLevel
+[2020.05.06-12.16.14:416][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/ActionRPG_Dungeon02_Lights) is flushing async loading
+[2020.05.06-12.16.14:416][  0]LogStreaming: Display: Flushing async loaders.
+[2020.05.06-12.16.14:439][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/ActionRPG_Dungeon02_Asset) is flushing async loading
+[2020.05.06-12.16.15:402][  0]LogBlueprint: Error: [Compiler BP_Potion_PickUp] Return Value  및  Object  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타깃 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2020.05.06-12.16.15:402][  0]LogBlueprint: Error: [Compiler BP_Potion_PickUp] Object  및  Return Value  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타깃 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2020.05.06-12.16.15:402][  0]LogBlueprint: Error: [Compiler BP_Potion_PickUp] 사용 중인  As WB HUD Pickup  핀은 더 이상  잘못된 형변환 노드입니다.  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.16.15:402][  0]LogBlueprint: Warning: [Compiler BP_Potion_PickUp] 'BP_Potion_PickUp' 에서 "TextBlockLabel" 라는 이름의 변수를 찾을 수 없습니다.
+ TextBlockLabel 구하기  에 대해 'BP_Potion_PickUp' 컴파일이 되었는지 확인하세요.
+[2020.05.06-12.16.15:419][  0]LogBlueprint: Error: [Compiler BP_GameInstance] 위젯 생성  노드 스폰에는 클래스를 지정해야 합니다.
+[2020.05.06-12.16.15:420][  0]LogBlueprint: Error: [Compiler BP_GameInstance] 사용 중인  <이름없음>  핀은 더 이상  Close Options Screen  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.16.15:420][  0]LogBlueprint: Error: [Compiler BP_GameInstance] 사용 중인  <이름없음>  핀은 더 이상  Close Options Screen  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.16.15:420][  0]LogBlueprint: Error: [Compiler BP_GameInstance] 사용 중인  타깃  핀은 더 이상  Close Options Screen  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.16.15:420][  0]LogBlueprint: Error: [Compiler BP_GameInstance] BP_GameInstance' 에서 "CloseOptionsScreen" 라는 이름의 함수를 찾을 수 없습니다.
+ Close Options Screen  에 대해 'BP_GameInstance' 컴파일이 되었는지 확인하세요.
+[2020.05.06-12.16.15:423][  0]LogBlueprint: Error: [Compiler BP_GameInstance] 이 블루프린트(셀프)는 ' 타깃 ' 에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2020.05.06-12.16.15:449][  0]LogBlueprint: Error: [Compiler BP_GameMode] 위젯 생성  노드 스폰에는 클래스를 지정해야 합니다.
+[2020.05.06-12.16.15:449][  0]LogBlueprint: Error: [Compiler BP_GameMode] 위젯 생성  노드 스폰에는 클래스를 지정해야 합니다.
+[2020.05.06-12.16.15:449][  0]LogBlueprint: Error: [Compiler BP_GameMode] 위젯 생성  노드 스폰에는 클래스를 지정해야 합니다.
+[2020.05.06-12.16.15:463][  0]LogBlueprint: Error: [Compiler BP_PlayerController] 위젯 생성  노드 스폰에는 클래스를 지정해야 합니다.
+[2020.05.06-12.16.15:463][  0]LogBlueprint: Error: [Compiler BP_PlayerController] 위젯 생성  노드 스폰에는 클래스를 지정해야 합니다.
+[2020.05.06-12.16.15:465][  0]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  <이름없음>  핀은 더 이상  Close Inventory  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.16.15:465][  0]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  <이름없음>  핀은 더 이상  Close Inventory  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.16.15:465][  0]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  타깃  핀은 더 이상  Close Inventory  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.16.15:465][  0]LogBlueprint: Error: [Compiler BP_PlayerController] BP_PlayerController' 에서 "CloseInventory" 라는 이름의 함수를 찾을 수 없습니다.
+ Close Inventory  에 대해 'BP_PlayerController' 컴파일이 되었는지 확인하세요.
+[2020.05.06-12.16.15:466][  0]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  Inventory UI  핀은 더 이상  세트  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.16.15:466][  0]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  <이름없음>  핀은 더 이상  세트  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.16.15:466][  0]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  Inventory UI  핀은 더 이상  Get  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.16.15:470][  0]LogBlueprint: Error: [Compiler BP_PlayerController] 이 블루프린트(셀프)는 Widget 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2020.05.06-12.16.15:480][  0]LogBlueprint: Error: [Compiler BP_EnemyCharacter] 사용 중인  <이름없음>  핀은 더 이상  Set Progress  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.16.15:480][  0]LogBlueprint: Error: [Compiler BP_EnemyCharacter] 사용 중인  <이름없음>  핀은 더 이상  Set Progress  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.16.15:480][  0]LogBlueprint: Error: [Compiler BP_EnemyCharacter] 사용 중인  타깃  핀은 더 이상  Set Progress  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.16.15:480][  0]LogBlueprint: Error: [Compiler BP_EnemyCharacter] 사용 중인  Health Percent  핀은 더 이상  Set Progress  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.16.15:480][  0]LogBlueprint: Error: [Compiler BP_EnemyCharacter] BP_EnemyCharacter' 에서 "SetProgress" 라는 이름의 함수를 찾을 수 없습니다.
+ Set Progress  에 대해 'BP_EnemyCharacter' 컴파일이 되었는지 확인하세요.
+[2020.05.06-12.16.15:480][  0]LogBlueprint: Error: [Compiler BP_EnemyCharacter] Return Value  및  Object  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타깃 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2020.05.06-12.16.15:481][  0]LogBlueprint: Error: [Compiler BP_EnemyCharacter] Object  및  Return Value  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타깃 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2020.05.06-12.16.15:481][  0]LogBlueprint: Error: [Compiler BP_EnemyCharacter] 사용 중인  As WB Enemy HP  핀은 더 이상  잘못된 형변환 노드입니다.  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.16.15:502][  0]LogBlueprint: Error: [Compiler WC_DamageText] 사용 중인  <이름없음>  핀은 더 이상  Update Damage  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.16.15:502][  0]LogBlueprint: Error: [Compiler WC_DamageText] 사용 중인  <이름없음>  핀은 더 이상  Update Damage  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.16.15:502][  0]LogBlueprint: Error: [Compiler WC_DamageText] 사용 중인  타깃  핀은 더 이상  Update Damage  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.16.15:502][  0]LogBlueprint: Error: [Compiler WC_DamageText] 사용 중인  In Text  핀은 더 이상  Update Damage  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.16.15:502][  0]LogBlueprint: Error: [Compiler WC_DamageText] WC_DamageText' 에서 "UpdateDamage" 라는 이름의 함수를 찾을 수 없습니다.
+ Update Damage  에 대해 'WC_DamageText' 컴파일이 되었는지 확인하세요.
+[2020.05.06-12.16.15:502][  0]LogBlueprint: Error: [Compiler WC_DamageText] Object  및  Return Value  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타깃 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2020.05.06-12.16.15:502][  0]LogBlueprint: Error: [Compiler WC_DamageText] 사용 중인  As WB Damage Number  핀은 더 이상  잘못된 형변환 노드입니다.  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.16.15:502][  0]LogBlueprint: Error: [Compiler WC_DamageText] Return Value  및  Object  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타깃 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2020.05.06-12.16.15:607][  0]LogBlueprint: Warning: [Compiler BP_Potion_PickUp] [0009.38] BP_Potion_PickUp 컴파일에 실패했습니다. 치명적 오류 3 회, 경고 1 회, [소요시간 289 ms] (/Game/Items/Pickups/PotionPickups/BP_Potion_PickUp.BP_Potion_PickUp)
+[2020.05.06-12.16.15:607][  0]LogBlueprint: Warning: [Compiler BP_GameInstance] [0009.38] BP_GameInstance 컴파일에 실패했습니다. 치명적 오류 6 회, 경고 0 회, [소요시간 288 ms] (/Game/Blueprints/BP_GameInstance.BP_GameInstance)
+[2020.05.06-12.16.15:607][  0]LogBlueprint: Warning: [Compiler BP_GameMode] [0009.38] BP_GameMode 컴파일에 실패했습니다. 치명적 오류 3 회, 경고 0 회, [소요시간 289 ms] (/Game/Blueprints/BP_GameMode.BP_GameMode)
+[2020.05.06-12.16.15:607][  0]LogBlueprint: Warning: [Compiler BP_PlayerController] [0009.38] BP_PlayerController 컴파일에 실패했습니다. 치명적 오류 10 회, 경고 0 회, [소요시간 289 ms] (/Game/Blueprints/BP_PlayerController.BP_PlayerController)
+[2020.05.06-12.16.15:607][  0]LogBlueprint: Warning: [Compiler BP_EnemyCharacter] [0009.38] BP_EnemyCharacter 컴파일에 실패했습니다. 치명적 오류 8 회, 경고 0 회, [소요시간 289 ms] (/Game/Blueprints/BP_EnemyCharacter.BP_EnemyCharacter)
+[2020.05.06-12.16.15:607][  0]LogBlueprint: Warning: [Compiler WC_DamageText] [0009.38] WC_DamageText 컴파일에 실패했습니다. 치명적 오류 8 회, 경고 0 회, [소요시간 290 ms] (/Game/Blueprints/WidgetBP/WC_DamageText.WC_DamageText)
+[2020.05.06-12.16.16:384][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.06-12.16.16:422][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.05.06-12.16.16:422][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.06-12.16.16:423][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.502ms.
+[2020.05.06-12.16.16:423][  0]LogFileHelpers: Loading map 'GameLevel' took 2.159
+[2020.05.06-12.16.16:519][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-12.16.16:525][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-12.16.16:531][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-12.16.16:537][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-12.16.16:543][  0]LogCollectionManager: Loaded 0 collections in 0.001686 seconds
+[2020.05.06-12.16.16:570][  0]LogFileCache: Scanning file cache for directory 'C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/Collections/' took 0.01s
+[2020.05.06-12.16.16:570][  0]LogFileCache: Scanning file cache for directory 'C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Developers/djdur/Collections/' took 0.01s
+[2020.05.06-12.16.16:570][  0]LogFileCache: Scanning file cache for directory 'C:/Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Collections/' took 0.00s
+[2020.05.06-12.16.16:570][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.05.06-12.16.16:577][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2736 classes and 577 folders.
+[2020.05.06-12.16.16:583][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.06-12.16.16:585][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:586][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:588][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:588][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:589][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:590][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:590][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:591][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:592][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:592][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:593][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:594][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:594][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:595][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:596][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:596][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:597][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:598][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:598][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:599][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:600][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:600][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:601][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:602][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-12.16.16:649][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.06-12.16.16:654][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.05.06-12.16.16:670][  0]LogSlate: Took 0.000401 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.06-12.16.16:672][  0]LogSlate: Took 0.001652 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2020.05.06-12.16.16:674][  0]LogSlate: Took 0.001652 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2020.05.06-12.16.16:675][  0]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.06-12.16.16:678][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.06-12.16.16:743][  0]LogRenderer: Reallocating scene render targets to support 1940x996 Format 10 NumSamples 1 (Frame:1).
+[2020.05.06-12.16.16:897][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.06-12.16.16:897][  0]LogLoad: (Engine Initialization) Total time: 10.67 seconds
+[2020.05.06-12.16.16:897][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.06-12.16.16:937][  0]LogAssetRegistry: Asset discovery search completed in 6.6008 seconds
+[2020.05.06-12.16.16:939][  0]LogStats: UGameplayCueManager::InitializeEditorObjectLibrary -  0.002 s
+[2020.05.06-12.16.16:945][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.05.06-12.16.16:945][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2020.05.06-12.16.16:950][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.06-12.16.18:286][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-12.16.19:066][236]LogRenderer: Reallocating scene render targets to support 1944x996 Format 10 NumSamples 1 (Frame:5).
+[2020.05.06-12.16.29:782][408]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.05.06-12.17.19:131][991]LogSlate: Window '새 블루프린트 생성' being destroyed
+[2020.05.06-12.17.19:667][ 54]LogSlate: Took 0.000816 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.06-12.17.50:008][665]LogSlate: Window '프로젝트 세팅' being destroyed
+[2020.05.06-12.17.50:012][665]LogSlate: Window '프로젝트 세팅' being destroyed
+[2020.05.06-12.18.00:870][957]LogAssetEditorManager: Opening Asset editor for World /Game/0_UserGame/Maps/GameLevel.GameLevel
+[2020.05.06-12.18.00:892][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.05.06-12.18.00:893][957]Cmd: MAP LOAD FILE="../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/0_UserGame/Maps/GameLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.06-12.18.00:893][957]LightingResults: New page: 라이팅 빌드
+[2020.05.06-12.18.00:893][957]LoadErrors: New page: 맵 로드중: GameLevel.umap
+[2020.05.06-12.18.00:896][957]MapCheck: New page: 맵 체크
+[2020.05.06-12.18.00:896][957]LightingResults: New page: 라이팅 빌드
+[2020.05.06-12.18.00:920][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.05.06-12.18.00:952][957]LogAIModule: Creating AISystem for world GameLevel
+[2020.05.06-12.18.00:954][957]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/ActionRPG_Dungeon02_Asset) is flushing async loading
+[2020.05.06-12.18.00:954][957]LogStreaming: Display: Flushing async loaders.
+[2020.05.06-12.18.01:030][957]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/ActionRPG_Dungeon02_Lights) is flushing async loading
+[2020.05.06-12.18.01:049][957]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.06-12.18.01:069][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.05.06-12.18.01:084][957]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.06-12.18.01:085][957]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.499ms.
+[2020.05.06-12.18.01:086][957]LogFileHelpers: Loading map 'GameLevel' took 0.193
+[2020.05.06-12.18.01:121][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.05.06-12.18.15:928][663]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.05.06-12.18.15:935][663]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/0_UserGame/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2020.05.06-12.18.15:935][663]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.ActionRPG_Dungeon02_Asset' with GeneratedClass '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset_C' with ClassGeneratedBy '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.ActionRPG_Dungeon02_Asset'
+[2020.05.06-12.18.15:935][663]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel.ActionRPG_Dungeon02_Lights' with GeneratedClass '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights_C' with ClassGeneratedBy '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel.ActionRPG_Dungeon02_Lights'
+[2020.05.06-12.18.15:935][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.06-12.18.34:371][663]LogSlate: Window '메시지' being destroyed
+[2020.05.06-12.18.41:053][460]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode
+[2020.05.06-12.18.41:223][460]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.05.06-12.18.41:942][460]LogSlate: Took 0.001805 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.06-12.18.42:086][461]LogSlate: Took 0.001471 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.06-12.18.49:396][236]BlueprintLog: New page: BP_GameMode 컴파일
+[2020.05.06-12.18.49:466][236]LogBlueprint: Error: [Compiler BP_GameMode] 위젯 생성  노드 스폰에는 클래스를 지정해야 합니다.
+[2020.05.06-12.18.49:466][236]LogBlueprint: Error: [Compiler BP_GameMode] 위젯 생성  노드 스폰에는 클래스를 지정해야 합니다.
+[2020.05.06-12.18.49:467][236]LogBlueprint: Error: [Compiler BP_GameMode] BP_GameMode_C' 에서 "Game Over" 라는 이름의 함수를 찾을 수 없습니다.
+ Game Over  에 대해 'BP_GameMode_C' 컴파일이 되었는지 확인하세요.
+[2020.05.06-12.18.49:478][236]LogBlueprint: Error: [Compiler BP_PlayerController] 위젯 생성  노드 스폰에는 클래스를 지정해야 합니다.
+[2020.05.06-12.18.49:479][236]LogBlueprint: Error: [Compiler BP_PlayerController] 위젯 생성  노드 스폰에는 클래스를 지정해야 합니다.
+[2020.05.06-12.18.49:479][236]LogBlueprint: Warning: [Compiler BP_PlayerController] InputAction Event 가  AutoPlay 입력 액션  에 대해 알려지지 않은 'AutoPlay' 액션을 참조합니다.
+[2020.05.06-12.18.49:479][236]LogBlueprint: Warning: [Compiler BP_PlayerController] InputAction Event 가  Pause 입력 액션  에 대해 알려지지 않은 'Pause' 액션을 참조합니다.
+[2020.05.06-12.18.49:479][236]LogBlueprint: Warning: [Compiler BP_PlayerController] InputAction Event 가  Inventory 입력 액션  에 대해 알려지지 않은 'Inventory' 액션을 참조합니다.
+[2020.05.06-12.18.49:480][236]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  <이름없음>  핀은 더 이상  Start Game  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.18.49:480][236]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  <이름없음>  핀은 더 이상  Start Game  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.18.49:480][236]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  타깃  핀은 더 이상  Start Game  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.18.49:480][236]LogBlueprint: Error: [Compiler BP_PlayerController] BP_GameMode_C' 에서 "StartGame" 라는 이름의 함수를 찾을 수 없습니다.
+ Start Game  에 대해 'BP_GameMode_C' 컴파일이 되었는지 확인하세요.
+[2020.05.06-12.18.49:481][236]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  <이름없음>  핀은 더 이상  Close Inventory  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.18.49:481][236]LogBlueprint: Error: [Compiler BP_PlayerController] BP_PlayerController' 에서 "CloseInventory" 라는 이름의 함수를 찾을 수 없습니다.
+ Close Inventory  에 대해 'BP_PlayerController' 컴파일이 되었는지 확인하세요.
+[2020.05.06-12.18.49:482][236]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  <이름없음>  핀은 더 이상  세트  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.18.49:485][236]LogBlueprint: Error: [Compiler BP_PlayerController] 이 블루프린트(셀프)는 Widget 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2020.05.06-12.18.49:489][236]LogBlueprint: Error: [Compiler BP_EnemyCharacter] 사용 중인  <이름없음>  핀은 더 이상  Set Progress  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.18.49:489][236]LogBlueprint: Error: [Compiler BP_EnemyCharacter] 사용 중인  <이름없음>  핀은 더 이상  Set Progress  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.18.49:489][236]LogBlueprint: Error: [Compiler BP_EnemyCharacter] 사용 중인  타깃  핀은 더 이상  Set Progress  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.18.49:489][236]LogBlueprint: Error: [Compiler BP_EnemyCharacter] 사용 중인  Health Percent  핀은 더 이상  Set Progress  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.18.49:489][236]LogBlueprint: Error: [Compiler BP_EnemyCharacter] BP_EnemyCharacter' 에서 "SetProgress" 라는 이름의 함수를 찾을 수 없습니다.
+ Set Progress  에 대해 'BP_EnemyCharacter' 컴파일이 되었는지 확인하세요.
+[2020.05.06-12.18.49:489][236]LogBlueprint: Error: [Compiler BP_EnemyCharacter] Return Value  및  Object  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타깃 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2020.05.06-12.18.49:489][236]LogBlueprint: Error: [Compiler BP_EnemyCharacter] Object  및  Return Value  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타깃 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2020.05.06-12.18.49:489][236]LogBlueprint: Error: [Compiler BP_EnemyCharacter] 사용 중인  As WB Enemy HP  핀은 더 이상  잘못된 형변환 노드입니다.  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.18.49:500][236]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] InputAction Event 가  UseItem 입력 액션  에 대해 알려지지 않은 'UseItem' 액션을 참조합니다.
+[2020.05.06-12.18.49:500][236]LogBlueprint: Error: [Compiler BP_PlayerCharacter] 사용 중인  <이름없음>  핀은 더 이상  Game Over  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.18.49:500][236]LogBlueprint: Error: [Compiler BP_PlayerCharacter] 사용 중인  <이름없음>  핀은 더 이상  Game Over  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.18.49:500][236]LogBlueprint: Error: [Compiler BP_PlayerCharacter] 사용 중인  타깃  핀은 더 이상  Game Over  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.18.49:500][236]LogBlueprint: Error: [Compiler BP_PlayerCharacter] BP_GameMode_C' 에서 "Game Over" 라는 이름의 함수를 찾을 수 없습니다.
+ Game Over  에 대해 'BP_GameMode_C' 컴파일이 되었는지 확인하세요.
+[2020.05.06-12.18.49:501][236]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] InputAction Event 가  ChangeWeapon 입력 액션  에 대해 알려지지 않은 'ChangeWeapon' 액션을 참조합니다.
+[2020.05.06-12.18.49:501][236]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] InputAction Event 가  Roll 입력 액션  에 대해 알려지지 않은 'Roll' 액션을 참조합니다.
+[2020.05.06-12.18.49:501][236]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] InputAction Event 가  SpecialAttack 입력 액션  에 대해 알려지지 않은 'SpecialAttack' 액션을 참조합니다.
+[2020.05.06-12.18.49:501][236]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] InputAction Event 가  NormalAttack 입력 액션  에 대해 알려지지 않은 'NormalAttack' 액션을 참조합니다.
+[2020.05.06-12.18.49:558][236]LogBlueprint: Warning: [Compiler BP_PlayerController] [0163.33] BP_PlayerController 컴파일에 실패했습니다. 치명적 오류 10 회, 경고 3 회, [소요시간 161 ms] (/Game/Blueprints/BP_PlayerController.BP_PlayerController)
+[2020.05.06-12.18.49:558][236]LogBlueprint: Warning: [Compiler BP_EnemyCharacter] [0163.33] BP_EnemyCharacter 컴파일에 실패했습니다. 치명적 오류 8 회, 경고 0 회, [소요시간 161 ms] (/Game/Blueprints/BP_EnemyCharacter.BP_EnemyCharacter)
+[2020.05.06-12.18.49:558][236]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] [0163.33] BP_PlayerCharacter 컴파일에 실패했습니다. 치명적 오류 4 회, 경고 5 회, [소요시간 161 ms] (/Game/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter)
+[2020.05.06-12.18.49:711][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.05.06-12.18.49:726][236]LogBlueprint: Warning: [Compiler BP_GameMode] [0163.50] BP_GameMode 컴파일에 실패했습니다. 치명적 오류 3 회, 경고 0 회, [소요시간 331 ms] (/Game/Blueprints/BP_GameMode.BP_GameMode)
+[2020.05.06-12.18.51:277][405]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2020.05.06-12.19.15:830][136]BlueprintLog: New page: BP_GameMode 컴파일
+[2020.05.06-12.19.15:848][136]LogBlueprint: Error: [Compiler BP_GameMode] 위젯 생성  노드 스폰에는 클래스를 지정해야 합니다.
+[2020.05.06-12.19.15:848][136]LogBlueprint: Error: [Compiler BP_GameMode] 위젯 생성  노드 스폰에는 클래스를 지정해야 합니다.
+[2020.05.06-12.19.16:011][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.05.06-12.19.16:030][136]LogBlueprint: Warning: [Compiler BP_GameMode] [0189.81] BP_GameMode 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 0 회, [소요시간 199 ms] (/Game/Blueprints/BP_GameMode.BP_GameMode)
+[2020.05.06-12.19.16:794][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2020.05.06-12.19.16:920][215]LogSavePackage: Moving '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/BP_GameMode44A099C848755EC51A1255ACCD34F2AE.tmp' to '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_GameMode.uasset'
+[2020.05.06-12.19.16:950][216]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (42.569 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.06-12.19.32:898][822]BlueprintLog: New page: BP_GameMode 컴파일
+[2020.05.06-12.19.33:069][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.05.06-12.19.33:632][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2020.05.06-12.19.33:737][871]LogSavePackage: Moving '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/BP_GameModeE5E6A0DB4DCAC31F0A7A6EA846080A74.tmp' to '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_GameMode.uasset'
+[2020.05.06-12.19.34:888][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2020.05.06-12.19.34:994][  1]LogSavePackage: Moving '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/BP_GameModeC785166642D94E0E8A75C28FF8751781.tmp' to '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_GameMode.uasset'
+[2020.05.06-12.19.35:726][ 80]BlueprintLog: New page: BP_GameMode 컴파일
+[2020.05.06-12.19.35:904][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.05.06-12.20.11:103][749]BlueprintLog: New page: BP_GameMode 컴파일
+[2020.05.06-12.20.11:281][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.05.06-12.20.11:668][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2020.05.06-12.20.11:747][787]LogSavePackage: Moving '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/BP_GameModeB80C73AF4B2B326529ADF3A57247AC2A.tmp' to '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_GameMode.uasset'
+[2020.05.06-12.20.15:288][205]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2020.05.06-12.20.15:478][218]LogEditorTransaction: Undo 노드 이동
+[2020.05.06-12.20.15:647][227]LogEditorTransaction: Undo 노드 이동
+[2020.05.06-12.20.15:811][237]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2020.05.06-12.20.15:983][250]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2020.05.06-12.20.16:194][268]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2020.05.06-12.20.16:417][287]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2020.05.06-12.20.16:600][300]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2020.05.06-12.20.16:767][311]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2020.05.06-12.20.17:455][383]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2020.05.06-12.20.17:690][400]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2020.05.06-12.20.18:769][512]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2020.05.06-12.20.19:346][565]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2020.05.06-12.20.26:064][262]LogEditorTransaction: Undo 핀 링크 끊기
+[2020.05.06-12.20.26:370][279]LogEditorTransaction: Undo 핀 링크 끊기
+[2020.05.06-12.20.26:572][287]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2020.05.06-12.20.26:784][297]LogEditorTransaction: Undo 핀 링크 끊기
+[2020.05.06-12.20.33:418][928]BlueprintLog: New page: BP_GameMode 컴파일
+[2020.05.06-12.20.33:602][928]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.05.06-12.20.33:974][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2020.05.06-12.20.34:077][952]LogSavePackage: Moving '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/BP_GameMode6917A516492F2A8CF6C8E89B85BD2AE6.tmp' to '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_GameMode.uasset'
+[2020.05.06-12.20.36:540][202]LogSlate: Window 'BP_GameMode' being destroyed
+[2020.05.06-12.20.36:544][202]LogSlate: Window 'BP_GameMode' being destroyed
+[2020.05.06-12.20.46:336][363]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerController.BP_PlayerController
+[2020.05.06-12.21.21:649][450]BlueprintLog: New page: BP_PlayerController 컴파일
+[2020.05.06-12.21.21:671][450]LogBlueprint: Error: [Compiler BP_PlayerController] 위젯 생성  노드 스폰에는 클래스를 지정해야 합니다.
+[2020.05.06-12.21.21:671][450]LogBlueprint: Warning: [Compiler BP_PlayerController] InputAction Event 가  AutoPlay 입력 액션  에 대해 알려지지 않은 'AutoPlay' 액션을 참조합니다.
+[2020.05.06-12.21.21:671][450]LogBlueprint: Warning: [Compiler BP_PlayerController] InputAction Event 가  Pause 입력 액션  에 대해 알려지지 않은 'Pause' 액션을 참조합니다.
+[2020.05.06-12.21.21:671][450]LogBlueprint: Warning: [Compiler BP_PlayerController] InputAction Event 가  Inventory 입력 액션  에 대해 알려지지 않은 'Inventory' 액션을 참조합니다.
+[2020.05.06-12.21.21:671][450]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  <이름없음>  핀은 더 이상  Close Inventory  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.21.21:671][450]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  <이름없음>  핀은 더 이상  Close Inventory  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.21.21:671][450]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  타깃  핀은 더 이상  Close Inventory  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.21.21:671][450]LogBlueprint: Error: [Compiler BP_PlayerController] BP_PlayerController' 에서 "CloseInventory" 라는 이름의 함수를 찾을 수 없습니다.
+ Close Inventory  에 대해 'BP_PlayerController' 컴파일이 되었는지 확인하세요.
+[2020.05.06-12.21.21:672][450]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  Inventory UI  핀은 더 이상  Get  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.21.21:672][450]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  Inventory UI  핀은 더 이상  세트  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.21.21:672][450]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  <이름없음>  핀은 더 이상  세트  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.21.21:831][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.05.06-12.21.21:859][450]LogBlueprint: Warning: [Compiler BP_PlayerController] [0315.64] BP_PlayerController 컴파일에 실패했습니다. 치명적 오류 8 회, 경고 3 회, [소요시간 210 ms] (/Game/Blueprints/BP_PlayerController.BP_PlayerController)
+[2020.05.06-12.21.22:492][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2020.05.06-12.21.22:618][480]LogSavePackage: Moving '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/BP_PlayerController63C5957742E7A6C1930FBB8CB0D08E5A.tmp' to '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_PlayerController.uasset'
+[2020.05.06-12.21.32:128][191]BlueprintLog: New page: BP_PlayerController 컴파일
+[2020.05.06-12.21.32:147][191]LogBlueprint: Error: [Compiler BP_PlayerController] 위젯 생성  노드 스폰에는 클래스를 지정해야 합니다.
+[2020.05.06-12.21.32:147][191]LogBlueprint: Warning: [Compiler BP_PlayerController] InputAction Event 가  AutoPlay 입력 액션  에 대해 알려지지 않은 'AutoPlay' 액션을 참조합니다.
+[2020.05.06-12.21.32:147][191]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  <이름없음>  핀은 더 이상  Close Inventory  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.21.32:147][191]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  <이름없음>  핀은 더 이상  Close Inventory  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.21.32:147][191]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  타깃  핀은 더 이상  Close Inventory  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.21.32:147][191]LogBlueprint: Error: [Compiler BP_PlayerController] BP_PlayerController' 에서 "CloseInventory" 라는 이름의 함수를 찾을 수 없습니다.
+ Close Inventory  에 대해 'BP_PlayerController' 컴파일이 되었는지 확인하세요.
+[2020.05.06-12.21.32:147][191]LogBlueprint: Warning: [Compiler BP_PlayerController] InputAction Event 가  Pause 입력 액션  에 대해 알려지지 않은 'Pause' 액션을 참조합니다.
+[2020.05.06-12.21.32:147][191]LogBlueprint: Warning: [Compiler BP_PlayerController] InputAction Event 가  Inventory 입력 액션  에 대해 알려지지 않은 'Inventory' 액션을 참조합니다.
+[2020.05.06-12.21.32:148][191]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  Inventory UI  핀은 더 이상  Get  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.21.32:148][191]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  Inventory UI  핀은 더 이상  세트  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.21.32:148][191]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  <이름없음>  핀은 더 이상  세트  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.21.32:303][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.05.06-12.21.32:330][191]LogBlueprint: Warning: [Compiler BP_PlayerController] [0326.11] BP_PlayerController 컴파일에 실패했습니다. 치명적 오류 8 회, 경고 3 회, [소요시간 202 ms] (/Game/Blueprints/BP_PlayerController.BP_PlayerController)
+[2020.05.06-12.21.32:795][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2020.05.06-12.21.32:917][210]LogSavePackage: Moving '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/BP_PlayerController98BC8A5D4D065023221F84A8E0BB24BE.tmp' to '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_PlayerController.uasset'
+[2020.05.06-12.21.42:108][160]BlueprintLog: New page: BP_PlayerController 컴파일
+[2020.05.06-12.21.42:127][160]LogBlueprint: Error: [Compiler BP_PlayerController] 위젯 생성  노드 스폰에는 클래스를 지정해야 합니다.
+[2020.05.06-12.21.42:127][160]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  <이름없음>  핀은 더 이상  Close Inventory  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.21.42:127][160]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  <이름없음>  핀은 더 이상  Close Inventory  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.21.42:127][160]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  타깃  핀은 더 이상  Close Inventory  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.21.42:127][160]LogBlueprint: Error: [Compiler BP_PlayerController] BP_PlayerController' 에서 "CloseInventory" 라는 이름의 함수를 찾을 수 없습니다.
+ Close Inventory  에 대해 'BP_PlayerController' 컴파일이 되었는지 확인하세요.
+[2020.05.06-12.21.42:127][160]LogBlueprint: Warning: [Compiler BP_PlayerController] InputAction Event 가  Pause 입력 액션  에 대해 알려지지 않은 'Pause' 액션을 참조합니다.
+[2020.05.06-12.21.42:127][160]LogBlueprint: Warning: [Compiler BP_PlayerController] InputAction Event 가  Inventory 입력 액션  에 대해 알려지지 않은 'Inventory' 액션을 참조합니다.
+[2020.05.06-12.21.42:128][160]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  Inventory UI  핀은 더 이상  Get  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.21.42:128][160]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  Inventory UI  핀은 더 이상  세트  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.21.42:128][160]LogBlueprint: Error: [Compiler BP_PlayerController] 사용 중인  <이름없음>  핀은 더 이상  세트  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.21.42:284][160]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.05.06-12.21.42:311][160]LogBlueprint: Warning: [Compiler BP_PlayerController] [0336.09] BP_PlayerController 컴파일에 실패했습니다. 치명적 오류 8 회, 경고 2 회, [소요시간 202 ms] (/Game/Blueprints/BP_PlayerController.BP_PlayerController)
+[2020.05.06-12.21.43:095][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2020.05.06-12.21.43:221][227]LogSavePackage: Moving '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/BP_PlayerController1AF6750F404E96691B5AC6A2D08AED20.tmp' to '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_PlayerController.uasset'
+[2020.05.06-12.21.58:805][902]BlueprintLog: New page: BP_PlayerController 컴파일
+[2020.05.06-12.21.58:824][902]LogBlueprint: Error: [Compiler BP_PlayerController] BP_PlayerController' 에서 "CloseInventory" 라는 이름의 함수를 찾을 수 없습니다.
+ Close Inventory  에 대해 'BP_PlayerController' 컴파일이 되었는지 확인하세요.
+[2020.05.06-12.21.58:824][902]LogBlueprint: Warning: [Compiler BP_PlayerController] InputAction Event 가  Pause 입력 액션  에 대해 알려지지 않은 'Pause' 액션을 참조합니다.
+[2020.05.06-12.21.58:824][902]LogBlueprint: Warning: [Compiler BP_PlayerController] InputAction Event 가  Inventory 입력 액션  에 대해 알려지지 않은 'Inventory' 액션을 참조합니다.
+[2020.05.06-12.21.58:827][902]LogBlueprint: Warning: [Compiler BP_PlayerController] Close Inventory  노드. 이 노드는 고립된 것으로 정리되지 않을 것입니다. 노드는 pure 가 아니지만 실행 핀이 없습니다. K2Node Call Function 의 IsNodePure 구현을 확인하세요.
+[2020.05.06-12.21.58:982][902]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.05.06-12.21.59:011][902]LogBlueprint: Warning: [Compiler BP_PlayerController] [0352.79] BP_PlayerController 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 3 회, [소요시간 205 ms] (/Game/Blueprints/BP_PlayerController.BP_PlayerController)
+[2020.05.06-12.21.59:385][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2020.05.06-12.21.59:507][936]LogSavePackage: Moving '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/BP_PlayerController1B58F3B1447EE573711C4E951B516827.tmp' to '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_PlayerController.uasset'
+[2020.05.06-12.22.02:454][247]BlueprintLog: New page: BP_PlayerController 컴파일
+[2020.05.06-12.22.02:472][247]LogBlueprint: Warning: [Compiler BP_PlayerController] InputAction Event 가  Pause 입력 액션  에 대해 알려지지 않은 'Pause' 액션을 참조합니다.
+[2020.05.06-12.22.02:472][247]LogBlueprint: Warning: [Compiler BP_PlayerController] InputAction Event 가  Inventory 입력 액션  에 대해 알려지지 않은 'Inventory' 액션을 참조합니다.
+[2020.05.06-12.22.02:630][247]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.05.06-12.22.02:650][247]LogBlueprint: Warning: [Compiler BP_PlayerController] [0356.43] BP_PlayerController 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 196 ms] (/Game/Blueprints/BP_PlayerController.BP_PlayerController)
+[2020.05.06-12.22.03:315][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2020.05.06-12.22.03:443][310]LogSavePackage: Moving '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/BP_PlayerControllerA97E4C8744F3ADDDAD39A9BF3D0CE561.tmp' to '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_PlayerController.uasset'
+[2020.05.06-12.22.12:576][259]BlueprintLog: New page: BP_PlayerController 컴파일
+[2020.05.06-12.22.12:756][259]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.05.06-12.22.13:359][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2020.05.06-12.22.13:486][303]LogSavePackage: Moving '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/BP_PlayerControllerAAAE50CC4329B5CF592427AE7AE429A4.tmp' to '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_PlayerController.uasset'
+[2020.05.06-12.22.15:031][468]LogSlate: Window 'BP_PlayerController' being destroyed
+[2020.05.06-12.22.15:036][468]LogSlate: Window 'BP_PlayerController' being destroyed
+[2020.05.06-12.22.23:798][502]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameInstance.BP_GameInstance
+[2020.05.06-12.22.50:841][554]BlueprintLog: New page: BP_GameInstance 컴파일
+[2020.05.06-12.22.50:944][554]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.05.06-12.22.51:619][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameInstance" FILE="../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_GameInstance.uasset" SILENT=true
+[2020.05.06-12.22.51:668][624]LogSavePackage: Moving '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/BP_GameInstanceE7E516DD44DE25706F3A15B4B3F5A54C.tmp' to '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_GameInstance.uasset'
+[2020.05.06-12.23.16:910][537]BlueprintLog: New page: BP_GameInstance 컴파일
+[2020.05.06-12.23.16:956][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.05.06-12.23.17:338][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameInstance" FILE="../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_GameInstance.uasset" SILENT=true
+[2020.05.06-12.23.17:383][576]LogSavePackage: Moving '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/BP_GameInstance855520554D0EB73CC60650A6C447EF1C.tmp' to '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_GameInstance.uasset'
+[2020.05.06-12.23.18:888][747]LogSlate: Window 'BP_GameInstance' being destroyed
+[2020.05.06-12.23.18:893][747]LogSlate: Window 'BP_GameInstance' being destroyed
+[2020.05.06-12.23.25:429][525]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_EnemyCharacter.BP_EnemyCharacter
+[2020.05.06-12.23.29:933][928]LogSlate: Window 'BP_EnemyCharacter' being destroyed
+[2020.05.06-12.23.29:940][928]LogSlate: Window 'BP_EnemyCharacter' being destroyed
+[2020.05.06-12.23.31:108][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.05.06-12.23.38:417][ 57]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.06-12.23.39:468][181]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_EnemyCharacter.BP_EnemyCharacter
+[2020.05.06-12.23.52:895][472]BlueprintLog: New page: BP_EnemyCharacter 컴파일
+[2020.05.06-12.23.52:914][472]LogBlueprint: Error: [Compiler BP_EnemyCharacter] 사용 중인  <이름없음>  핀은 더 이상  Set Progress  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.23.52:914][472]LogBlueprint: Error: [Compiler BP_EnemyCharacter] 사용 중인  <이름없음>  핀은 더 이상  Set Progress  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.23.52:914][472]LogBlueprint: Error: [Compiler BP_EnemyCharacter] 사용 중인  타깃  핀은 더 이상  Set Progress  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.23.52:914][472]LogBlueprint: Error: [Compiler BP_EnemyCharacter] 사용 중인  Health Percent  핀은 더 이상  Set Progress  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.23.52:914][472]LogBlueprint: Error: [Compiler BP_EnemyCharacter] BP_EnemyCharacter' 에서 "SetProgress" 라는 이름의 함수를 찾을 수 없습니다.
+ Set Progress  에 대해 'BP_EnemyCharacter' 컴파일이 되었는지 확인하세요.
+[2020.05.06-12.23.52:914][472]LogBlueprint: Error: [Compiler BP_EnemyCharacter] Return Value  및  Object  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타깃 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2020.05.06-12.23.52:914][472]LogBlueprint: Error: [Compiler BP_EnemyCharacter] Object  및  Return Value  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타깃 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2020.05.06-12.23.52:914][472]LogBlueprint: Error: [Compiler BP_EnemyCharacter] 사용 중인  As WB Enemy HP  핀은 더 이상  잘못된 형변환 노드입니다.  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.05.06-12.23.53:097][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.05.06-12.23.53:112][472]LogBlueprint: Warning: [Compiler BP_EnemyCharacter] [0466.89] BP_EnemyCharacter 컴파일에 실패했습니다. 치명적 오류 8 회, 경고 0 회, [소요시간 216 ms] (/Game/Blueprints/BP_EnemyCharacter.BP_EnemyCharacter)
+[2020.05.06-12.23.53:627][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_EnemyCharacter" FILE="../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_EnemyCharacter.uasset" SILENT=true
+[2020.05.06-12.23.53:692][518]LogSavePackage: Moving '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/BP_EnemyCharacter2E5D10754F46CEC0C9F94A8B398DDE4E.tmp' to '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_EnemyCharacter.uasset'
+[2020.05.06-12.24.14:978][482]BlueprintLog: New page: BP_EnemyCharacter 컴파일
+[2020.05.06-12.24.15:179][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.05.06-12.24.15:666][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_EnemyCharacter" FILE="../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_EnemyCharacter.uasset" SILENT=true
+[2020.05.06-12.24.15:726][520]LogSavePackage: Moving '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/BP_EnemyCharacterFDF9501F49716B4D9A8C36B69563D6BE.tmp' to '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_EnemyCharacter.uasset'
+[2020.05.06-12.24.19:916][951]LogSlate: Window 'BP_EnemyCharacter' being destroyed
+[2020.05.06-12.24.19:921][951]LogSlate: Window 'BP_EnemyCharacter' being destroyed
+[2020.05.06-12.24.29:852][134]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/WidgetBP/WC_DamageText.WC_DamageText
+[2020.05.06-12.24.41:520][446]BlueprintLog: New page: WC_DamageText 컴파일
+[2020.05.06-12.24.41:555][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.05.06-12.24.43:054][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WidgetBP/WC_DamageText" FILE="../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/WidgetBP/WC_DamageText.uasset" SILENT=true
+[2020.05.06-12.24.43:064][623]LogSavePackage: Moving '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/WC_DamageText6ABE104B402A56498A4B0F83908CA8F9.tmp' to '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/WidgetBP/WC_DamageText.uasset'
+[2020.05.06-12.24.44:577][800]LogSlate: Window 'WC_DamageText' being destroyed
+[2020.05.06-12.24.44:584][800]LogSlate: Window 'WC_DamageText' being destroyed
+[2020.05.06-12.25.03:482][ 58]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Items/Pickups/PotionPickups/BP_Potion_PickUp.BP_Potion_PickUp
+[2020.05.06-12.25.16:209][377]BlueprintLog: New page: BP_Potion_PickUp 컴파일
+[2020.05.06-12.25.16:369][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.05.06-12.25.16:733][407]LogSavePackage: Moving '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/BP_Potion_PickUp81C53C28454DE0F9F2133DAD1216CE25.tmp' to '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Items/Pickups/PotionPickups/BP_Potion_PickUp.uasset'
+[2020.05.06-12.25.17:988][551]LogSlate: Window 'BP_Potion_PickUp' being destroyed
+[2020.05.06-12.25.17:993][551]LogSlate: Window 'BP_Potion_PickUp' being destroyed
+[2020.05.06-12.25.21:920][ 15]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.05.06-12.25.21:928][ 15]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/0_UserGame/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2020.05.06-12.25.21:928][ 15]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.ActionRPG_Dungeon02_Asset' with GeneratedClass '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset_C' with ClassGeneratedBy '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.ActionRPG_Dungeon02_Asset'
+[2020.05.06-12.25.21:928][ 15]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel.ActionRPG_Dungeon02_Lights' with GeneratedClass '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights_C' with ClassGeneratedBy '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel.ActionRPG_Dungeon02_Lights'
+[2020.05.06-12.25.21:928][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.06-12.25.27:077][ 15]LogSlate: Window '메시지' being destroyed
+[2020.05.06-12.25.33:875][827]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2020.05.06-12.26.08:213][927]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2020.05.06-12.26.13:697][461]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2020.05.06-12.26.13:713][461]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] InputAction Event 가  UseItem 입력 액션  에 대해 알려지지 않은 'UseItem' 액션을 참조합니다.
+[2020.05.06-12.26.13:714][461]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] InputAction Event 가  ChangeWeapon 입력 액션  에 대해 알려지지 않은 'ChangeWeapon' 액션을 참조합니다.
+[2020.05.06-12.26.13:714][461]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] InputAction Event 가  Roll 입력 액션  에 대해 알려지지 않은 'Roll' 액션을 참조합니다.
+[2020.05.06-12.26.13:714][461]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] InputAction Event 가  SpecialAttack 입력 액션  에 대해 알려지지 않은 'SpecialAttack' 액션을 참조합니다.
+[2020.05.06-12.26.13:714][461]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] InputAction Event 가  NormalAttack 입력 액션  에 대해 알려지지 않은 'NormalAttack' 액션을 참조합니다.
+[2020.05.06-12.26.13:895][461]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.05.06-12.26.13:923][461]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] [0607.70] BP_PlayerCharacter 컴파일에 성공했습니다만, 경고가 5 회 있습니다. [소요시간 226 ms] (/Game/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter)
+[2020.05.06-12.26.14:413][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerCharacter" FILE="../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_PlayerCharacter.uasset" SILENT=true
+[2020.05.06-12.26.14:543][501]LogSavePackage: Moving '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/BP_PlayerCharacter4CD94BB34473783874AD2BAB2690992B.tmp' to '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_PlayerCharacter.uasset'
+[2020.05.06-12.26.15:732][623]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2020.05.06-12.26.15:747][623]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] InputAction Event 가  UseItem 입력 액션  에 대해 알려지지 않은 'UseItem' 액션을 참조합니다.
+[2020.05.06-12.26.15:748][623]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] InputAction Event 가  ChangeWeapon 입력 액션  에 대해 알려지지 않은 'ChangeWeapon' 액션을 참조합니다.
+[2020.05.06-12.26.15:748][623]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] InputAction Event 가  Roll 입력 액션  에 대해 알려지지 않은 'Roll' 액션을 참조합니다.
+[2020.05.06-12.26.15:748][623]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] InputAction Event 가  SpecialAttack 입력 액션  에 대해 알려지지 않은 'SpecialAttack' 액션을 참조합니다.
+[2020.05.06-12.26.15:748][623]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] InputAction Event 가  NormalAttack 입력 액션  에 대해 알려지지 않은 'NormalAttack' 액션을 참조합니다.
+[2020.05.06-12.26.15:923][623]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.05.06-12.26.15:953][623]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] [0609.73] BP_PlayerCharacter 컴파일에 성공했습니다만, 경고가 5 회 있습니다. [소요시간 220 ms] (/Game/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter)
+[2020.05.06-12.26.22:762][326]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2020.05.06-12.26.22:945][326]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.05.06-12.26.23:296][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerCharacter" FILE="../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_PlayerCharacter.uasset" SILENT=true
+[2020.05.06-12.26.23:421][350]LogSavePackage: Moving '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Saved/BP_PlayerCharacter2ADD52D14672D364135EFBA99C8E6384.tmp' to '../../../../../../Users/djdur/Desktop/Unreal/0_COMMON/1_Step_기본소스/Content/Blueprints/BP_PlayerCharacter.uasset'
+[2020.05.06-12.26.24:735][496]LogSlate: Window 'BP_PlayerCharacter' being destroyed
+[2020.05.06-12.26.24:740][496]LogSlate: Window 'BP_PlayerCharacter' being destroyed
+[2020.05.06-12.26.25:824][618]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.05.06-12.26.25:836][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/0_UserGame/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2020.05.06-12.26.25:836][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.ActionRPG_Dungeon02_Asset' with GeneratedClass '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset_C' with ClassGeneratedBy '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.ActionRPG_Dungeon02_Asset'
+[2020.05.06-12.26.25:836][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel.ActionRPG_Dungeon02_Lights' with GeneratedClass '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights_C' with ClassGeneratedBy '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel.ActionRPG_Dungeon02_Lights'
+[2020.05.06-12.26.25:837][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.06-12.26.25:837][618]PIE: New page: PIE 세션: GameLevel (2020. 5. 7. 오전 6:26:25)
+[2020.05.06-12.26.25:853][618]LogPlayLevel: Creating play world package: /Game/0_UserGame/Maps/UEDPIE_0_GameLevel
+[2020.05.06-12.26.25:856][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002669s)
+[2020.05.06-12.26.25:856][618]LogAIModule: Creating AISystem for world GameLevel
+[2020.05.06-12.26.25:856][618]LogPlayLevel: PIE: World Init took: (0.000449s)
+[2020.05.06-12.26.25:856][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0_UserGame/Maps/GameLevel.GameLevel to /Game/0_UserGame/Maps/UEDPIE_0_GameLevel.GameLevel (0.003446s)
+[2020.05.06-12.26.25:885][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.05.06-12.26.25:985][618]LogInit: XAudio2 using 'LG HDR 4K(2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.06-12.26.26:012][618]LogInit: FAudioDevice initialized.
+[2020.05.06-12.26.26:049][618]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.06-12.26.26:128][618]LogWorld: Bringing World /Game/0_UserGame/Maps/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2020.05.06-21.26.26
+[2020.05.06-12.26.26:129][618]LogWorld: Bringing up level for play took: 0.001023
+[2020.05.06-12.26.26:145][618]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.05.06-12.26.26:149][618]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.05.06-12.26.26:149][618]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.05.06-12.26.26:150][618]PIE: /Game/0_UserGame/Maps/UEDPIE_0_GameLevel 에 대한 에디터에서 플레이 시작 시간: -0.481
+[2020.05.06-12.26.26:150][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/0_UserGame/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2020.05.06-12.26.26:150][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.ActionRPG_Dungeon02_Asset' with GeneratedClass '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset_C' with ClassGeneratedBy '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.ActionRPG_Dungeon02_Asset'
+[2020.05.06-12.26.26:150][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel.ActionRPG_Dungeon02_Lights' with GeneratedClass '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights_C' with ClassGeneratedBy '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel.ActionRPG_Dungeon02_Lights'
+[2020.05.06-12.26.26:151][618]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '리 (U+b9ac)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2020.05.06-12.26.26:153][618]LogSlate: Took 0.001642 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2020.05.06-12.26.28:071][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/0_UserGame/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2020.05.06-12.26.28:071][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.ActionRPG_Dungeon02_Asset' with GeneratedClass '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset_C' with ClassGeneratedBy '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.ActionRPG_Dungeon02_Asset'
+[2020.05.06-12.26.28:071][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel.ActionRPG_Dungeon02_Lights' with GeneratedClass '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights_C' with ClassGeneratedBy '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel.ActionRPG_Dungeon02_Lights'
+[2020.05.06-12.26.28:071][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-12.26.28:097][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.06-12.26.28:098][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/0_UserGame/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2020.05.06-12.26.28:098][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.ActionRPG_Dungeon02_Asset' with GeneratedClass '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset_C' with ClassGeneratedBy '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.ActionRPG_Dungeon02_Asset'
+[2020.05.06-12.26.28:098][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel.ActionRPG_Dungeon02_Lights' with GeneratedClass '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights_C' with ClassGeneratedBy '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel.ActionRPG_Dungeon02_Lights'
+[2020.05.06-12.26.28:139][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-12.26.28:173][818]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.05.06-12.26.28:189][819]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.05.06-12.26.28:233][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.05.06-12.26.29:617][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-12.26.29:700][994]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.05.06-12.26.29:707][994]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/0_UserGame/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2020.05.06-12.26.29:707][994]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.ActionRPG_Dungeon02_Asset' with GeneratedClass '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset_C' with ClassGeneratedBy '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.ActionRPG_Dungeon02_Asset'
+[2020.05.06-12.26.29:707][994]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel.ActionRPG_Dungeon02_Lights' with GeneratedClass '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights_C' with ClassGeneratedBy '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel.ActionRPG_Dungeon02_Lights'
+[2020.05.06-12.26.29:707][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.06-12.26.29:707][994]PIE: New page: PIE 세션: GameLevel (2020. 5. 7. 오전 6:26:29)
+[2020.05.06-12.26.29:707][994]LogPlayLevel: Creating play world package: /Game/0_UserGame/Maps/UEDPIE_0_GameLevel
+[2020.05.06-12.26.29:710][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002509s)
+[2020.05.06-12.26.29:710][994]LogAIModule: Creating AISystem for world GameLevel
+[2020.05.06-12.26.29:710][994]LogPlayLevel: PIE: World Init took: (0.000406s)
+[2020.05.06-12.26.29:710][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0_UserGame/Maps/GameLevel.GameLevel to /Game/0_UserGame/Maps/UEDPIE_0_GameLevel.GameLevel (0.003008s)
+[2020.05.06-12.26.29:729][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.05.06-12.26.29:823][994]LogInit: XAudio2 using 'LG HDR 4K(2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.06-12.26.29:847][994]LogInit: FAudioDevice initialized.
+[2020.05.06-12.26.29:887][994]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.06-12.26.29:953][994]LogWorld: Bringing World /Game/0_UserGame/Maps/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2020.05.06-21.26.29
+[2020.05.06-12.26.29:953][994]LogWorld: Bringing up level for play took: 0.000929
+[2020.05.06-12.26.29:966][994]PIE: /Game/0_UserGame/Maps/UEDPIE_0_GameLevel 에 대한 에디터에서 플레이 시작 시간: -0.665
+[2020.05.06-12.26.29:966][994]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/0_UserGame/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2020.05.06-12.26.29:966][994]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.ActionRPG_Dungeon02_Asset' with GeneratedClass '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset_C' with ClassGeneratedBy '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.ActionRPG_Dungeon02_Asset'
+[2020.05.06-12.26.29:966][994]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel.ActionRPG_Dungeon02_Lights' with GeneratedClass '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights_C' with ClassGeneratedBy '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel.ActionRPG_Dungeon02_Lights'
+[2020.05.06-12.26.31:308][145]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/0_UserGame/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2020.05.06-12.26.31:308][145]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.ActionRPG_Dungeon02_Asset' with GeneratedClass '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset_C' with ClassGeneratedBy '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.ActionRPG_Dungeon02_Asset'
+[2020.05.06-12.26.31:308][145]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel.ActionRPG_Dungeon02_Lights' with GeneratedClass '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights_C' with ClassGeneratedBy '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel.ActionRPG_Dungeon02_Lights'
+[2020.05.06-12.26.31:308][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-12.26.31:345][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.06-12.26.31:346][145]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/0_UserGame/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/0_UserGame/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2020.05.06-12.26.31:346][145]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.ActionRPG_Dungeon02_Asset' with GeneratedClass '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset_C' with ClassGeneratedBy '/Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.ActionRPG_Dungeon02_Asset'
+[2020.05.06-12.26.31:346][145]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel.ActionRPG_Dungeon02_Lights' with GeneratedClass '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights_C' with ClassGeneratedBy '/Game/Maps/ActionRPG_Dungeon02_Lights.ActionRPG_Dungeon02_Lights:PersistentLevel.ActionRPG_Dungeon02_Lights'
+[2020.05.06-12.26.31:373][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-12.26.31:377][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.05.06-12.26.31:412][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.05.06-12.26.31:429][147]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.05.06-12.26.33:048][329]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.06-12.26.48:582][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.06-12.26.48:614][682]LogSlate: Window 'ActionRPG - 언리얼 에디터' being destroyed
+[2020.05.06-12.26.48:754][683]Cmd: QUIT_EDITOR
+[2020.05.06-12.26.49:338][683]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2020.05.06-12.26.49:347][683]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.06-12.26.49:347][683]LogExit: Preparing to exit.
+[2020.05.06-12.26.50:220][683]LogExit: Editor shut down
+[2020.05.06-12.26.50:220][683]LogExit: Transaction tracking system shut down
+[2020.05.06-12.26.50:476][683]LogExit: Object subsystem successfully closed.
+[2020.05.06-12.26.50:498][683]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.06-12.26.50:503][683]LogD3D11RHI: Shutdown
+[2020.05.06-12.26.50:503][683]LogD3D11RHI: CleanupD3DDevice
+[2020.05.06-12.26.50:504][683]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.05.06-12.26.50:504][683]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.06-12.26.50:504][683]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.05.06-12.26.50:504][683]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.06-12.26.50:504][683]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.05.06-12.26.50:504][683]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.06-12.26.50:506][683]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.05.06-12.26.50:540][683]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (562)
+[2020.05.06-12.26.50:540][683]LogModuleManager: Shutting down and abandoning module Voice (560)
+[2020.05.06-12.26.50:540][683]LogModuleManager: Shutting down and abandoning module BlueprintGraph (558)
+[2020.05.06-12.26.50:540][683]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (556)
+[2020.05.06-12.26.50:540][683]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (554)
+[2020.05.06-12.26.50:540][683]LogModuleManager: Shutting down and abandoning module SceneOutliner (552)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module AddContentDialog (550)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module WidgetCarousel (549)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module EditorWidgets (546)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module CollectionManager (544)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module StatsViewer (542)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module FoliageEdit (540)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module LandscapeEditor (538)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module MeshPaintMode (536)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (534)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module ActorPickerMode (532)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module GeometryMode (530)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module TextureAlignMode (528)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module BspMode (526)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (524)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (522)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module SequenceRecorder (520)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module AutomationWorker (518)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (516)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (514)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module PlacementMode (513)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module MaterialEditor (512)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (508)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (506)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (504)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module WebMMedia (502)
+[2020.05.06-12.26.50:541][683]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (500)
+[2020.05.06-12.26.50:542][683]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (498)
+[2020.05.06-12.26.50:542][683]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (496)
+[2020.05.06-12.26.50:542][683]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (494)
+[2020.05.06-12.26.50:542][683]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (492)
+[2020.05.06-12.26.50:542][683]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (490)
+[2020.05.06-12.26.50:542][683]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (488)
+[2020.05.06-12.26.50:542][683]LogModuleManager: Shutting down and abandoning module Media (487)
+[2020.05.06-12.26.50:548][683]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (484)
+[2020.05.06-12.26.50:548][683]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2020.05.06-12.26.50:548][683]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2020.05.06-12.26.50:548][683]LogModuleManager: Shutting down and abandoning module MeshPaint (478)
+[2020.05.06-12.26.50:548][683]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2020.05.06-12.26.50:548][683]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2020.05.06-12.26.50:548][683]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2020.05.06-12.26.50:548][683]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2020.05.06-12.26.50:548][683]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2020.05.06-12.26.50:548][683]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2020.05.06-12.26.50:548][683]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2020.05.06-12.26.50:548][683]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (462)
+[2020.05.06-12.26.50:548][683]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (460)
+[2020.05.06-12.26.50:548][683]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (458)
+[2020.05.06-12.26.50:548][683]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (456)
+[2020.05.06-12.26.50:549][683]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (455)
+[2020.05.06-12.26.51:133][683]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (452)
+[2020.05.06-12.26.51:133][683]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (450)
+[2020.05.06-12.26.51:133][683]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (448)
+[2020.05.06-12.26.51:133][683]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (446)
+[2020.05.06-12.26.51:133][683]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (444)
+[2020.05.06-12.26.51:133][683]LogModuleManager: Shutting down and abandoning module InputBindingEditor (442)
+[2020.05.06-12.26.51:133][683]LogModuleManager: Shutting down and abandoning module MergeActors (440)
+[2020.05.06-12.26.51:133][683]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2020.05.06-12.26.51:133][683]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2020.05.06-12.26.51:133][683]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2020.05.06-12.26.51:133][683]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2020.05.06-12.26.51:133][683]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2020.05.06-12.26.51:133][683]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2020.05.06-12.26.51:133][683]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2020.05.06-12.26.51:133][683]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2020.05.06-12.26.51:133][683]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2020.05.06-12.26.51:134][683]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2020.05.06-12.26.51:134][683]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2020.05.06-12.26.51:134][683]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2020.05.06-12.26.51:134][683]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2020.05.06-12.26.51:134][683]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2020.05.06-12.26.51:134][683]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2020.05.06-12.26.51:134][683]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2020.05.06-12.26.51:178][683]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2020.05.06-12.26.51:178][683]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2020.05.06-12.26.51:178][683]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2020.05.06-12.26.51:178][683]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2020.05.06-12.26.51:178][683]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2020.05.06-12.26.51:178][683]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2020.05.06-12.26.51:178][683]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (394)
+[2020.05.06-12.26.51:178][683]LogModuleManager: Shutting down and abandoning module Persona (392)
+[2020.05.06-12.26.51:178][683]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (391)
+[2020.05.06-12.26.51:178][683]LogModuleManager: Shutting down and abandoning module AnimGraph (389)
+[2020.05.06-12.26.51:178][683]LogModuleManager: Shutting down and abandoning module Kismet (386)
+[2020.05.06-12.26.51:182][683]LogModuleManager: Shutting down and abandoning module GraphEditor (384)
+[2020.05.06-12.26.51:183][683]LogModuleManager: Shutting down and abandoning module ClassViewer (382)
+[2020.05.06-12.26.51:183][683]LogModuleManager: Shutting down and abandoning module Toolbox (380)
+[2020.05.06-12.26.51:183][683]LogModuleManager: Shutting down and abandoning module ModuleUI (378)
+[2020.05.06-12.26.51:183][683]LogModuleManager: Shutting down and abandoning module MovieSceneTools (376)
+[2020.05.06-12.26.51:184][683]LogModuleManager: Shutting down and abandoning module OutputLog (374)
+[2020.05.06-12.26.51:184][683]LogModuleManager: Shutting down and abandoning module GammaUI (372)
+[2020.05.06-12.26.51:184][683]LogModuleManager: Shutting down and abandoning module Documentation (370)
+[2020.05.06-12.26.51:184][683]LogModuleManager: Shutting down and abandoning module LiveCoding (368)
+[2020.05.06-12.26.51:184][683]LogModuleManager: Shutting down and abandoning module LevelSequence (366)
+[2020.05.06-12.26.51:184][683]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (364)
+[2020.05.06-12.26.51:184][683]LogModuleManager: Shutting down and abandoning module MovieScene (362)
+[2020.05.06-12.26.51:184][683]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (360)
+[2020.05.06-12.26.51:184][683]LogModuleManager: Shutting down and abandoning module LauncherPlatform (358)
+[2020.05.06-12.26.51:184][683]LogModuleManager: Shutting down and abandoning module AnalyticsET (356)
+[2020.05.06-12.26.51:184][683]LogModuleManager: Shutting down and abandoning module PortalServices (354)
+[2020.05.06-12.26.51:184][683]LogModuleManager: Shutting down and abandoning module PortalRpc (352)
+[2020.05.06-12.26.51:184][683]LogModuleManager: Shutting down and abandoning module MessagingRpc (350)
+[2020.05.06-12.26.51:184][683]LogModuleManager: Shutting down and abandoning module AIModule (348)
+[2020.05.06-12.26.51:184][683]LogModuleManager: Shutting down and abandoning module AITestSuite (347)
+[2020.05.06-12.26.51:184][683]LogModuleManager: Shutting down and abandoning module NavigationSystem (345)
+[2020.05.06-12.26.51:184][683]LogModuleManager: Shutting down and abandoning module DesktopPlatform (342)
+[2020.05.06-12.26.51:184][683]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (340)
+[2020.05.06-12.26.51:186][683]LogModuleManager: Shutting down and abandoning module ProfilerService (338)
+[2020.05.06-12.26.51:393][683]LogModuleManager: Shutting down and abandoning module TaskGraph (336)
+[2020.05.06-12.26.51:393][683]LogModuleManager: Shutting down and abandoning module SlateRemote (334)
+[2020.05.06-12.26.51:393][683]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (332)
+[2020.05.06-12.26.51:393][683]LogModuleManager: Shutting down and abandoning module EditableMesh (330)
+[2020.05.06-12.26.51:393][683]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2020.05.06-12.26.51:393][683]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (326)
+[2020.05.06-12.26.51:393][683]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (324)
+[2020.05.06-12.26.51:393][683]LogModuleManager: Shutting down and abandoning module ImgMedia (322)
+[2020.05.06-12.26.51:393][683]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (320)
+[2020.05.06-12.26.51:393][683]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (318)
+[2020.05.06-12.26.51:393][683]LogModuleManager: Shutting down and abandoning module BackChannel (316)
+[2020.05.06-12.26.51:393][683]LogModuleManager: Shutting down and abandoning module AppleVision (314)
+[2020.05.06-12.26.51:393][683]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (312)
+[2020.05.06-12.26.51:393][683]LogModuleManager: Shutting down and abandoning module AppleImageUtils (310)
+[2020.05.06-12.26.51:393][683]LogModuleManager: Shutting down and abandoning module AlembicImporter (308)
+[2020.05.06-12.26.51:393][683]LogModuleManager: Shutting down and abandoning module AlembicLibrary (307)
+[2020.05.06-12.26.51:393][683]LogModuleManager: Shutting down and abandoning module GeometryCache (306)
+[2020.05.06-12.26.51:393][683]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (305)
+[2020.05.06-12.26.51:393][683]LogModuleManager: Shutting down and abandoning module VariantManagerContent (300)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (292)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (290)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (288)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (278)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (276)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (274)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (272)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (270)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (268)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module Paper2DEditor (266)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module ActionRPG (264)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module SignificanceManager (262)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module GameplayAbilitiesEditor (260)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module GameplayAbilities (258)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module GameplayDebugger (257)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module ActorSequence (254)
+[2020.05.06-12.26.51:394][683]LogModuleManager: Shutting down and abandoning module UdpMessaging (252)
+[2020.05.06-12.26.51:495][683]LogModuleManager: Shutting down and abandoning module TcpMessaging (250)
+[2020.05.06-12.26.51:596][683]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (248)
+[2020.05.06-12.26.51:596][683]LogModuleManager: Shutting down and abandoning module DataValidation (246)
+[2020.05.06-12.26.51:596][683]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2020.05.06-12.26.51:596][683]LogModuleManager: Shutting down and abandoning module LevelEditor (243)
+[2020.05.06-12.26.51:596][683]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (242)
+[2020.05.06-12.26.51:596][683]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (240)
+[2020.05.06-12.26.51:596][683]LogModuleManager: Shutting down and abandoning module MainFrame (238)
+[2020.05.06-12.26.51:596][683]LogModuleManager: Shutting down and abandoning module HotReload (237)
+[2020.05.06-12.26.51:597][683]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2020.05.06-12.26.51:597][683]LogModuleManager: Shutting down and abandoning module TreeMap (231)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module AnimationSharing (228)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module AISupportModule (226)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module Paper2D (224)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (222)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module ActionRPGLoadingScreen (220)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module PacketHandler (218)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (216)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (214)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module Overlay (210)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module OverlayEditor (209)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (206)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module VREditor (204)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module StringTableEditor (202)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (200)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (198)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module FunctionalTesting (196)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (194)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (193)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module UMG (190)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module UMGEditor (189)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module Sequencer (188)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module MessageLog (185)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module SlateReflector (180)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module Slate (178)
+[2020.05.06-12.26.51:598][683]LogModuleManager: Shutting down and abandoning module EditorStyle (176)
+[2020.05.06-12.26.51:599][683]LogModuleManager: Shutting down and abandoning module UnrealEd (174)
+[2020.05.06-12.26.51:599][683]LogModuleManager: Shutting down and abandoning module MRMesh (172)
+[2020.05.06-12.26.51:599][683]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (170)
+[2020.05.06-12.26.51:599][683]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (168)
+[2020.05.06-12.26.51:599][683]LogModuleManager: Shutting down and abandoning module XAudio2 (166)
+[2020.05.06-12.26.51:599][683]LogModuleManager: Shutting down and abandoning module Networking (164)
+[2020.05.06-12.26.51:599][683]LogModuleManager: Shutting down and abandoning module Core (162)
+[2020.05.06-12.26.51:599][683]LogModuleManager: Shutting down and abandoning module KismetCompiler (160)
+[2020.05.06-12.26.51:599][683]LogModuleManager: Shutting down and abandoning module MeshUtilities (158)
+[2020.05.06-12.26.51:599][683]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (157)
+[2020.05.06-12.26.51:599][683]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (156)
+[2020.05.06-12.26.51:599][683]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (155)
+[2020.05.06-12.26.51:599][683]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (153)
+[2020.05.06-12.26.51:600][683]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (151)
+[2020.05.06-12.26.51:600][683]LogModuleManager: Shutting down and abandoning module MaterialBaking (147)
+[2020.05.06-12.26.51:600][683]LogModuleManager: Shutting down and abandoning module DerivedDataCache (142)
+[2020.05.06-12.26.51:670][683]LogDerivedDataCache: Shutdown
+[2020.05.06-12.26.51:670][683]LogModuleManager: Shutting down and abandoning module XGEController (140)
+[2020.05.06-12.26.51:670][683]LogModuleManager: Shutting down and abandoning module TargetPlatform (138)
+[2020.05.06-12.26.51:670][683]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (137)
+[2020.05.06-12.26.51:670][683]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (135)
+[2020.05.06-12.26.51:670][683]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (133)
+[2020.05.06-12.26.51:670][683]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (131)
+[2020.05.06-12.26.51:670][683]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (129)
+[2020.05.06-12.26.51:670][683]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (127)
+[2020.05.06-12.26.51:670][683]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (125)
+[2020.05.06-12.26.51:670][683]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (123)
+[2020.05.06-12.26.51:670][683]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (121)
+[2020.05.06-12.26.51:670][683]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (119)
+[2020.05.06-12.26.51:670][683]LogModuleManager: Shutting down and abandoning module ImageWrapper (118)
+[2020.05.06-12.26.51:670][683]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (115)
+[2020.05.06-12.26.51:671][683]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (113)
+[2020.05.06-12.26.51:671][683]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (111)
+[2020.05.06-12.26.51:671][683]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (109)
+[2020.05.06-12.26.51:671][683]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (107)
+[2020.05.06-12.26.51:671][683]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (105)
+[2020.05.06-12.26.51:671][683]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (103)
+[2020.05.06-12.26.51:671][683]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (101)
+[2020.05.06-12.26.51:671][683]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (99)
+[2020.05.06-12.26.51:671][683]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (97)
+[2020.05.06-12.26.51:672][683]LogModuleManager: Shutting down and abandoning module Messaging (95)
+[2020.05.06-12.26.51:672][683]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (93)
+[2020.05.06-12.26.51:672][683]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (91)
+[2020.05.06-12.26.51:672][683]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (89)
+[2020.05.06-12.26.51:677][683]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (87)
+[2020.05.06-12.26.51:677][683]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (85)
+[2020.05.06-12.26.51:677][683]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (83)
+[2020.05.06-12.26.51:677][683]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (81)
+[2020.05.06-12.26.51:677][683]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (79)
+[2020.05.06-12.26.51:677][683]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (77)
+[2020.05.06-12.26.51:677][683]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (75)
+[2020.05.06-12.26.51:677][683]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (73)
+[2020.05.06-12.26.51:677][683]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (71)
+[2020.05.06-12.26.51:677][683]LogModuleManager: Shutting down and abandoning module InputCore (68)
+[2020.05.06-12.26.51:677][683]LogModuleManager: Shutting down and abandoning module Settings (66)
+[2020.05.06-12.26.51:677][683]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (64)
+[2020.05.06-12.26.51:677][683]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2020.05.06-12.26.51:677][683]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (60)
+[2020.05.06-12.26.51:677][683]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (58)
+[2020.05.06-12.26.51:677][683]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (56)
+[2020.05.06-12.26.51:677][683]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (52)
+[2020.05.06-12.26.51:678][683]LogModuleManager: Shutting down and abandoning module XMPP (47)
+[2020.05.06-12.26.51:678][683]LogModuleManager: Shutting down and abandoning module WebSockets (46)
+[2020.05.06-12.26.51:684][683]LogModuleManager: Shutting down and abandoning module HTTP (43)
+[2020.05.06-12.26.51:684][683]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.05.06-12.26.51:684][683]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD31A71E1-43C3-FC59-1524-5F883D9CD97A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=adfc74064b9160a780199c9969109245%7C369c5910a4c04b32995edb8517e9f29b%7Cbd7e2849-47b1-49e4-8b19-0c9b5fad07ac&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.05.06-12.26.51:709][683]LogModuleManager: Shutting down and abandoning module SSL (42)
+[2020.05.06-12.26.51:710][683]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.05.06-12.26.51:710][683]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.05.06-12.26.51:710][683]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.05.06-12.26.51:711][683]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.05.06-12.26.51:711][683]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.06-12.26.51:711][683]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.06-12.26.51:711][683]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.06-12.26.51:712][683]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.06-12.26.51:712][683]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.06-12.26.51:712][683]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.06-12.26.51:712][683]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.06-12.26.51:712][683]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.06-12.26.51:712][683]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.06-12.26.51:712][683]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.06-12.26.51:712][683]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.06-12.26.51:712][683]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.06-12.26.51:712][683]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.06-12.26.51:712][683]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.06-12.26.51:712][683]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.06-12.26.51:717][683]LogExit: Exiting.
+[2020.05.06-12.26.51:733][683]Log file closed, 05/06/20 21:26:51

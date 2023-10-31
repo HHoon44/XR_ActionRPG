@@ -1,0 +1,1113 @@
+﻿Log file open, 10/30/23 11:01:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ActionRPG
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.540438
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin SlateRemote
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Config/Windows/Engine.ini]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.Mobile.TonemapperFilm:1]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.DBuffer:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.MobileMSAA:2]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:64]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.ShaderPipelineCache.Enabled:1]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.AllowVolumeTextureAssetCreation:1]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:1]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Config/Windows/Engine.ini]
+[2023.10.30-02.01.21:727][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Config/Windows/Engine.ini]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Config/Windows/Engine.ini]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.10.30-02.01.21:727][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Config/Windows/Engine.ini]
+[2023.10.30-02.01.21:727][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Config/Windows/Engine.ini]
+[2023.10.30-02.01.21:730][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2023.10.30-02.01.21:730][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.10.30-02.01.21:730][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.10.30-02.01.21:730][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2023.10.30-02.01.21:730][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.10.30-02.01.21:731][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.10.30-02.01.21:731][  0]LogInit: Selected Device Profile: [Windows]
+[2023.10.30-02.01.21:731][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.10.30-02.01.21:819][  0]LogHAL: Display: Platform has ~ 16 GB [16977186816 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.10.30-02.01.21:819][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2023.10.30-02.01.21:819][  0]LogInit: Going up to parent DeviceProfile []
+[2023.10.30-02.01.21:819][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2023.10.30-02.01.21:819][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.10.30-02.01.21:819][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.10.30-02.01.21:819][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2023.10.30-02.01.21:819][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.10.30-02.01.21:819][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2023.10.30-02.01.21:819][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.10.30-02.01.21:819][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.10.30-02.01.21:819][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.10.30-02.01.21:819][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.10.30-02.01.21:819][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.10.30-02.01.21:819][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.10.30-02.01.21:819][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.10.30-02.01.21:819][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.10.30-02.01.21:819][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.10.30-02.01.21:819][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.10.30-02.01.21:820][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Config/Windows/Engine.ini]
+[2023.10.30-02.01.21:821][  0]LogInit: Computer: DESKTOP-J7AFA15
+[2023.10.30-02.01.21:821][  0]LogInit: User: user
+[2023.10.30-02.01.21:821][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.10.30-02.01.21:821][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.10.30-02.01.21:821][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2023.10.30-02.01.21:821][  0]LogMemory: Platform Memory Stats for Windows
+[2023.10.30-02.01.21:821][  0]LogMemory: Process Physical Memory: 114.83 MB used, 119.41 MB peak
+[2023.10.30-02.01.21:821][  0]LogMemory: Process Virtual Memory: 102.68 MB used, 102.68 MB peak
+[2023.10.30-02.01.21:821][  0]LogMemory: Physical Memory: 6512.26 MB used,  9678.45 MB free, 16190.71 MB total
+[2023.10.30-02.01.21:821][  0]LogMemory: Virtual Memory: 4661.14 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2023.10.30-02.01.21:880][  0]LogInit: Using OS detected language (ko-KR).
+[2023.10.30-02.01.21:881][  0]LogInit: Using OS detected locale (ko-KR).
+[2023.10.30-02.01.21:881][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2023.10.30-02.01.21:952][  0]LogInit: Setting process to per monitor DPI aware
+[2023.10.30-02.01.21:996][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.10.30-02.01.21:996][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.10.30-02.01.22:202][  0]LogD3D11RHI: D3D11 adapters:
+[2023.10.30-02.01.22:353][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2023.10.30-02.01.22:353][  0]LogD3D11RHI:       8072/0/8095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.10.30-02.01.22:407][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2023.10.30-02.01.22:407][  0]LogD3D11RHI:       128/0/8095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.10.30-02.01.22:409][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.10.30-02.01.22:409][  0]LogD3D11RHI:       0/0/8095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.10.30-02.01.22:409][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.10.30-02.01.22:416][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.10.30-02.01.22:416][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2023.10.30-02.01.22:416][  0]LogWindows: EnumDisplayDevices:
+[2023.10.30-02.01.22:416][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2023.10.30-02.01.22:417][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2023.10.30-02.01.22:417][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2023.10.30-02.01.22:417][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2023.10.30-02.01.22:418][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2023.10.30-02.01.22:418][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2023.10.30-02.01.22:418][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2023.10.30-02.01.22:419][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.10.30-02.01.22:419][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2023.10.30-02.01.22:419][  0]LogD3D11RHI:   Driver Version: 537.42 (internal:31.0.15.3742, unified:537.42)
+[2023.10.30-02.01.22:419][  0]LogD3D11RHI:      Driver Date: 9-12-2023
+[2023.10.30-02.01.22:419][  0]LogRHI: Texture pool is 5650 MB (70% of 8072 MB)
+[2023.10.30-02.01.22:519][  0]LogD3D11RHI: Async texture creation enabled
+[2023.10.30-02.01.22:536][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2023.10.30-02.01.22:536][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2023.10.30-02.01.22:536][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2023.10.30-02.01.22:544][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.10.30-02.01.22:864][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2023.10.30-02.01.22:877][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2023.10.30-02.01.22:891][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2023.10.30-02.01.22:904][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2023.10.30-02.01.22:918][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2023.10.30-02.01.22:931][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2023.10.30-02.01.22:944][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2023.10.30-02.01.22:957][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2023.10.30-02.01.22:963][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2023.10.30-02.01.23:033][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2023.10.30-02.01.23:033][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2023.10.30-02.01.23:033][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2023.10.30-02.01.23:034][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2023.10.30-02.01.23:034][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2023.10.30-02.01.23:034][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2023.10.30-02.01.23:034][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2023.10.30-02.01.23:034][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2023.10.30-02.01.23:034][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2023.10.30-02.01.23:034][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2023.10.30-02.01.23:034][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2023.10.30-02.01.23:034][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2023.10.30-02.01.23:034][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2023.10.30-02.01.23:034][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2023.10.30-02.01.23:034][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2023.10.30-02.01.23:034][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2023.10.30-02.01.23:034][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2023.10.30-02.01.23:034][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2023.10.30-02.01.23:036][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2023.10.30-02.01.23:084][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2023.10.30-02.01.23:084][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2023.10.30-02.01.23:107][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2023.10.30-02.01.23:107][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2023.10.30-02.01.23:119][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2023.10.30-02.01.23:131][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2023.10.30-02.01.23:142][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2023.10.30-02.01.23:155][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2023.10.30-02.01.23:198][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2023.10.30-02.01.23:198][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2023.10.30-02.01.23:199][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.10.30-02.01.23:208][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.10.30-02.01.23:261][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Intermediate/Shaders/WorkingDirectory/17076/).
+[2023.10.30-02.01.23:262][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/B81282F04844AE7A03C8D6B81E39B925/'.
+[2023.10.30-02.01.23:264][  0]LogXGEController: Cleaning working directory: C:/Users/user/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.10.30-02.01.23:264][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.10.30-02.01.23:264][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.10.30-02.01.23:264][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.10.30-02.01.23:743][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.10.30-02.01.23:786][  0]LogDerivedDataCache: Loaded boot cache 0.04s 79MB C:/Users/user/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2023.10.30-02.01.23:786][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2023.10.30-02.01.23:786][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/H_Hoon Unreal Engine/Step_1_ActionRPG/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.10.30-02.01.23:786][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.10.30-02.01.23:786][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/H_Hoon Unreal Engine/Step_1_ActionRPG/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.10.30-02.01.23:786][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.10.30-02.01.23:796][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.10.30-02.01.23:797][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.10.30-02.01.23:797][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.10.30-02.01.23:808][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.10.30-02.01.23:808][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.10.30-02.01.23:808][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.10.30-02.01.23:831][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2023.10.30-02.01.23:834][  0]LogSlate: Using FreeType 2.6.0
+[2023.10.30-02.01.23:835][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.10.30-02.01.23:924][  0]LogAssetRegistry: FAssetRegistry took 0.0324 seconds to start up
+[2023.10.30-02.01.24:696][  0]LogInit: Selected Device Profile: [Windows]
+[2023.10.30-02.01.24:813][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.10.30-02.01.24:813][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.10.30-02.01.24:813][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.10.30-02.01.24:813][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.10.30-02.01.24:813][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.10.30-02.01.24:822][  0]LogNetVersion: ActionRPG 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3792473898)
+[2023.10.30-02.01.25:146][  0]LogPackageLocalizationCache: Processed 4 localized package path(s) for 1 prioritized culture(s) in 0.009678 seconds
+[2023.10.30-02.01.25:151][  0]LogUObjectArray: 40989 objects as part of root set at end of initial load.
+[2023.10.30-02.01.25:151][  0]LogUObjectAllocator: 7101464 out of 0 bytes used by permanent object pool.
+[2023.10.30-02.01.25:151][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.10.30-02.01.25:961][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.10.30-02.01.25:977][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.10.30-02.01.26:052][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2023.10.30-02.01.26:088][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2023.10.30-02.01.26:088][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2023.10.30-02.01.26:089][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2023.10.30-02.01.26:091][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2023.10.30-02.01.26:154][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.10.30-02.01.26:302][  0]LogEngine: Initializing Engine...
+[2023.10.30-02.01.26:464][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.10.30-02.01.26:473][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.10.30-02.01.26:512][  0]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.10.30-02.01.26:797][  0]LogInit: FAudioDevice initialized.
+[2023.10.30-02.01.26:798][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.10.30-02.01.27:315][  0]LogDerivedDataCache: Saved boot cache 0.52s 91MB C:/Users/user/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2023.10.30-02.01.27:316][  0]LogInit: Texture streaming: Enabled
+[2023.10.30-02.01.27:335][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.10.30-02.01.27:356][  0]LogInit: Transaction tracking system initialized
+[2023.10.30-02.01.27:381][  0]BlueprintLog: New page: 에디터 로드
+[2023.10.30-02.01.27:469][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2023.10.30-02.01.27:867][  0]LogFileCache: Scanning file cache for directory 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/' took 0.02s
+[2023.10.30-02.01.27:867][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2023.10.30-02.01.27:867][  0]LogCook: Display: Mobile HDR setting 1
+[2023.10.30-02.01.27:881][  0]LogStats: FGameplayAbilitiesEditorModule::GameplayTagTreeChanged -  0.000 s
+[2023.10.30-02.01.27:961][  0]LogStats: UGameplayCueManager::InitializeEditorObjectLibrary -  0.001 s
+[2023.10.30-02.01.27:997][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2023.10.30-02.01.27:997][  0]Cmd: MAP LOAD FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.10.30-02.01.27:997][  0]LightingResults: New page: 라이팅 빌드
+[2023.10.30-02.01.27:999][  0]MapCheck: New page: 맵 체크
+[2023.10.30-02.01.27:999][  0]LightingResults: New page: 라이팅 빌드
+[2023.10.30-02.01.28:022][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.10.30-02.01.28:128][  0]LogAIModule: Creating AISystem for world GameLevel
+[2023.10.30-02.01.28:133][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/ActionRPG_Dungeon02_Lights) is flushing async loading
+[2023.10.30-02.01.28:133][  0]LogStreaming: Display: Flushing async loaders.
+[2023.10.30-02.01.28:153][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/ActionRPG_Dungeon02_Asset) is flushing async loading
+[2023.10.30-02.01.28:524][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.30-02.01.28:548][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.10.30-02.01.28:548][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.30-02.01.28:549][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.18ms.
+[2023.10.30-02.01.28:549][  0]LogFileHelpers: Loading map 'GameLevel' took 0.552
+[2023.10.30-02.01.28:639][  0]LogCollectionManager: Loaded 0 collections in 0.001681 seconds
+[2023.10.30-02.01.28:655][  0]LogFileCache: Scanning file cache for directory 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Collections/' took 0.01s
+[2023.10.30-02.01.28:655][  0]LogFileCache: Scanning file cache for directory 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/Developers/user/Collections/' took 0.00s
+[2023.10.30-02.01.28:655][  0]LogFileCache: Scanning file cache for directory 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/Collections/' took 0.00s
+[2023.10.30-02.01.28:655][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2023.10.30-02.01.28:661][  0]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 2736 classes and 577 folders.
+[2023.10.30-02.01.28:667][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.10.30-02.01.28:669][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:669][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:670][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:670][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:672][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:672][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:673][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:673][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:674][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:674][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:675][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:675][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:676][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:676][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:677][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.10.30-02.01.28:717][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.10.30-02.01.28:725][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-02.01.28:731][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-02.01.28:737][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-02.01.28:743][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-02.01.28:748][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2023.10.30-02.01.28:795][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.10.30-02.01.28:795][  0]LogLoad: (Engine Initialization) Total time: 9.09 seconds
+[2023.10.30-02.01.28:795][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.10.30-02.01.28:834][  0]LogAssetRegistry: Asset discovery search completed in 4.9327 seconds
+[2023.10.30-02.01.28:836][  0]LogStats: UGameplayCueManager::InitializeEditorObjectLibrary -  0.002 s
+[2023.10.30-02.01.28:841][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2023.10.30-02.01.28:841][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2023.10.30-02.01.28:842][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.10.30-02.01.28:850][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.10.30-02.01.28:852][  0]LogSlate: Took 0.001433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2023.10.30-02.01.28:853][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.10.30-02.01.28:855][  0]LogSlate: Took 0.001371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2023.10.30-02.01.28:855][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.10.30-02.01.28:872][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.30-02.01.28:955][  0]LogRenderer: Reallocating scene render targets to support 536x1264 Format 10 NumSamples 1 (Frame:1).
+[2023.10.30-02.01.29:809][ 90]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.30-02.01.51:655][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.10.30-02.01.51:992][466]LogBlueprint: Warning: [Compiler BP_PlayerAnim] Hero  입구 노드가 스테이트에 연결되지 않았습니다.
+[2023.10.30-02.01.51:992][466]LogBlueprint: Warning: [Compiler BP_PlayerAnim] Hero  에 입구 스테이트 연결이 없습니다.
+[2023.10.30-02.01.51:992][466]LogBlueprint: Warning: [Compiler BP_PlayerAnim] [0032.29] BP_PlayerAnim 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 2 ms] (/Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim)
+[2023.10.30-02.01.52:003][466]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim
+[2023.10.30-02.01.52:042][466]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2023.10.30-02.01.52:207][466]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.30-02.01.52:210][466]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2023.10.30-02.01.52:495][466]LogBlueprint: Warning: [Compiler BP_PlayerController] Input Axis Event 가  RotateCamera 입력 축  에 대해 알려지지 않은 'RotateCamera' 축을 참조합니다.
+[2023.10.30-02.01.52:522][466]LogBlueprint: Warning: [Compiler BP_PlayerController] [0032.82] BP_PlayerController 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 53 ms] (/Game/Blueprints/BP_PlayerController.BP_PlayerController)
+[2023.10.30-02.01.52:591][466]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2023.10.30-02.01.53:162][466]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2023.10.30-02.01.53:364][466]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.10.30-02.01.53:456][467]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.10.30-02.01.55:229][672]LogSlate: Window 'BP_PlayerAnim' being destroyed
+[2023.10.30-02.01.55:891][751]BlueprintLog: New page: BP_PlayerAnim 컴파일
+[2023.10.30-02.01.55:892][751]LogBlueprint: Warning: [Compiler BP_PlayerAnim] Hero  입구 노드가 스테이트에 연결되지 않았습니다.
+[2023.10.30-02.01.55:892][751]LogBlueprint: Warning: [Compiler BP_PlayerAnim] Hero  에 입구 스테이트 연결이 없습니다.
+[2023.10.30-02.01.56:012][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.10.30-02.01.56:020][751]LogBlueprint: Warning: [Compiler BP_PlayerAnim] [0036.31] BP_PlayerAnim 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 129 ms] (/Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim)
+[2023.10.30-02.02.08:487][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.02.08:501][208]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnimC91056A5406B6D507335F5927319E664.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.02.21:594][774]BlueprintLog: New page: BP_PlayerAnim 컴파일
+[2023.10.30-02.02.21:595][774]LogBlueprint: Warning: [Compiler BP_PlayerAnim] Hero  입구 노드가 스테이트에 연결되지 않았습니다.
+[2023.10.30-02.02.21:595][774]LogBlueprint: Warning: [Compiler BP_PlayerAnim] Hero  에 입구 스테이트 연결이 없습니다.
+[2023.10.30-02.02.21:718][774]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.10.30-02.02.21:720][774]LogBlueprint: Warning: [Compiler BP_PlayerAnim] [0062.01] BP_PlayerAnim 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 125 ms] (/Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim)
+[2023.10.30-02.02.23:364][970]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.10.30-02.03.30:688][982]BlueprintLog: New page: BP_PlayerAnim 컴파일
+[2023.10.30-02.03.30:690][982]LogBlueprint: Warning: [Compiler BP_PlayerAnim] Anim_Sword_Idle -> Sword_Run_Forward  will never be taken, please connect something to  Can Enter Transition
+[2023.10.30-02.03.30:690][982]LogBlueprint: Warning: [Compiler BP_PlayerAnim] Sword_Run_Forward -> Anim_Sword_Idle  will never be taken, please connect something to  Can Enter Transition
+[2023.10.30-02.03.30:815][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.10.30-02.03.30:818][982]LogBlueprint: Warning: [Compiler BP_PlayerAnim] [0131.11] BP_PlayerAnim 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 129 ms] (/Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim)
+[2023.10.30-02.03.32:309][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.10.30-02.03.32:327][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.03.32:348][157]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnim2ACBCF6744A534200EF9F8A9EE608977.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.03.45:314][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.03.45:335][206]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnimF671480B4A54C29FE8E4C19C8C283A85.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.03.49:097][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.03.49:110][655]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnimD24E348E4353DF1ADBD2F0ACB2DD705A.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.03.51:597][952]LogEditorTransaction: Undo 노드 이동
+[2023.10.30-02.03.51:662][952]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.30-02.03.59:067][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.03.59:088][825]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnim952C35A144A8CE5C90254D8182534575.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.04.02:190][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.04.02:204][195]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnim2E4A60694CA9D8A18017DA96E1E85026.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.04.05:075][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.04.05:089][538]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnim8247F6974CDB9D7614902880DFF36863.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.04.12:442][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.04.12:463][403]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnimD0E41F8C4C0254C2EF05E494079B3A66.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.04.26:254][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.04.26:277][ 47]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnim915AAA84499D1F6A170424B1B2804F3F.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.04.32:061][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.10.30-02.04.32:079][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.04.32:102][736]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnimAF42CA2D402D26EF8F066D996608BBEC.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.05.23:798][776]BlueprintLog: New page: BP_PlayerAnim 컴파일
+[2023.10.30-02.05.23:801][776]LogBlueprint: Warning: [Compiler BP_PlayerAnim] Sword_Run_Forward -> Anim_Sword_Idle  will never be taken, please connect something to  Can Enter Transition
+[2023.10.30-02.05.23:898][776]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	BP_PlayerAnim_C /Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_PlayerAnim_C_4
+	Function /Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim_C:ExecuteUbergraph_BP_PlayerAnim:0040
+[2023.10.30-02.05.23:900][776]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	BP_PlayerAnim_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_PlayerAnim_C_4
+	Function /Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim_C:ExecuteUbergraph_BP_PlayerAnim:0040
+[2023.10.30-02.05.23:927][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.10.30-02.05.23:929][776]LogBlueprint: Warning: [Compiler BP_PlayerAnim] [0244.22] BP_PlayerAnim 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 130 ms] (/Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim)
+[2023.10.30-02.05.45:689][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.05.45:712][ 47]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnim92E20B5945DCB557F6AE4DB078AAC3CF.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.05.48:123][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.05.48:139][334]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnim8781DA5F48569CB095A86C8B339E3A33.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.05.55:204][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.05.55:228][169]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnimD7DD56444F1209EB92A7069A56E55BA6.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.05.56:606][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.05.56:622][332]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnim077D17714E6D17D92F837FB386380FCC.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.06.02:947][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.06.02:971][ 76]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnimFB88BD6F4392386D2F09A29319E1EC7C.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.06.05:766][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.06.05:783][409]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnim53328AC1434D900DBC3FDD86CD70D96E.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.06.10:640][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.06.10:657][990]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnimA30F27174A7C28C89F1171A0BF528C1A.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.06.13:308][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.06.13:332][298]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnim5AC5FE994B5740988D3D3DB8DF6F3A91.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.06.16:602][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.06.16:626][687]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnim81591FF94CD093B2963998BADDC5D901.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.06.16:758][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.06.16:775][701]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnimAFDFC58E4D2C5F80F443B6B840858BBD.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.06.16:914][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.06.16:932][715]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnimBD13D83D47BEA483515621B4256AEFE4.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.06.17:276][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.30-02.06.20:775][936]BlueprintLog: New page: BP_PlayerAnim 컴파일
+[2023.10.30-02.06.20:877][936]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	BP_PlayerAnim_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_PlayerAnim_C_5
+	Function /Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim_C:ExecuteUbergraph_BP_PlayerAnim:003E
+[2023.10.30-02.06.20:877][936]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue1 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	BP_PlayerAnim_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_PlayerAnim_C_5
+	Function /Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim_C:ExecuteUbergraph_BP_PlayerAnim:00F6
+[2023.10.30-02.06.20:877][936]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	BP_PlayerAnim_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_PlayerAnim_C_5
+	Function /Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim_C:ExecuteUbergraph_BP_PlayerAnim:003E
+[2023.10.30-02.06.20:877][936]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	BP_PlayerAnim_C /Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_PlayerAnim_C_5
+	Function /Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim_C:ExecuteUbergraph_BP_PlayerAnim:003E
+[2023.10.30-02.06.20:877][936]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue1 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	BP_PlayerAnim_C /Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_PlayerAnim_C_5
+	Function /Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim_C:ExecuteUbergraph_BP_PlayerAnim:00F6
+[2023.10.30-02.06.20:877][936]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	BP_PlayerAnim_C /Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_PlayerAnim_C_5
+	Function /Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim_C:ExecuteUbergraph_BP_PlayerAnim:003E
+[2023.10.30-02.06.20:904][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.10.30-02.06.20:908][936]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue1 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	BP_PlayerAnim_C /Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_PlayerAnim_C_5
+	Function /Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim_C:ExecuteUbergraph_BP_PlayerAnim:00F6
+[2023.10.30-02.06.20:908][936]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	BP_PlayerAnim_C /Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_PlayerAnim_C_5
+	Function /Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim_C:ExecuteUbergraph_BP_PlayerAnim:003E
+[2023.10.30-02.06.20:908][936]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue1 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	BP_PlayerAnim_C /Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_PlayerAnim_C_5
+	Function /Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim_C:ExecuteUbergraph_BP_PlayerAnim:00F6
+[2023.10.30-02.06.20:925][937]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	BP_PlayerAnim_C /Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_PlayerAnim_C_5
+	Function /Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim_C:ExecuteUbergraph_BP_PlayerAnim:003E
+[2023.10.30-02.06.20:925][937]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue1 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	BP_PlayerAnim_C /Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_PlayerAnim_C_5
+	Function /Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim_C:ExecuteUbergraph_BP_PlayerAnim:00F6
+[2023.10.30-02.06.20:925][937]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	BP_PlayerAnim_C /Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_PlayerAnim_C_5
+	Function /Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim_C:ExecuteUbergraph_BP_PlayerAnim:003E
+[2023.10.30-02.06.20:933][938]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue1 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	BP_PlayerAnim_C /Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_PlayerAnim_C_5
+	Function /Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim_C:ExecuteUbergraph_BP_PlayerAnim:00F6
+[2023.10.30-02.06.20:933][938]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	BP_PlayerAnim_C /Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_PlayerAnim_C_5
+	Function /Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim_C:ExecuteUbergraph_BP_PlayerAnim:003E
+[2023.10.30-02.06.20:933][938]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue1 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	BP_PlayerAnim_C /Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_PlayerAnim_C_5
+	Function /Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim_C:ExecuteUbergraph_BP_PlayerAnim:00F6
+[2023.10.30-02.06.20:941][939]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	BP_PlayerAnim_C /Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_PlayerAnim_C_5
+	Function /Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim_C:ExecuteUbergraph_BP_PlayerAnim:003E
+[2023.10.30-02.06.20:941][939]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue1 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	BP_PlayerAnim_C /Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_PlayerAnim_C_5
+	Function /Game/0_UserGame/Blueprints/BP_PlayerAnim.BP_PlayerAnim_C:ExecuteUbergraph_BP_PlayerAnim:00F6
+[2023.10.30-02.06.26:343][586]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Characters/BS_Sword_Idle_Run.BS_Sword_Idle_Run
+[2023.10.30-02.06.26:348][586]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2023.10.30-02.06.26:357][586]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.30-02.06.26:370][586]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2023.10.30-02.06.26:986][586]LogRenderer: Reallocating scene render targets to support 752x1264 Format 10 NumSamples 1 (Frame:1).
+[2023.10.30-02.06.26:987][586]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.10.30-02.06.37:269][810]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2023.10.30-02.06.50:785][388]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/0_UserGame/Blueprints/BP_Player.BP_Player
+[2023.10.30-02.06.51:026][388]LogMaterial: Display: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2023.10.30-02.06.53:881][706]LogSlate: Window 'BP_Player' being destroyed
+[2023.10.30-02.07.10:228][660]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.07.10:432][660]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2023.10.30-02.07.11:235][745]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.10.30-02.07.11:253][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_Player.uasset" SILENT=true
+[2023.10.30-02.07.11:272][745]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player577CD2C6472CD4E5AB1A68AD5B420681.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_Player.uasset'
+[2023.10.30-02.07.15:792][278]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/0_UserGame/Blueprints/BP_Player.BP_Player
+[2023.10.30-02.07.18:656][493]LogSlate: Window 'BP_Player' being destroyed
+[2023.10.30-02.07.19:699][615]LogRenderer: Reallocating scene render targets to support 764x1264 Format 10 NumSamples 1 (Frame:1).
+[2023.10.30-02.07.29:326][768]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.10.30-02.07.29:330][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_Player.uasset" SILENT=true
+[2023.10.30-02.07.29:338][768]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerB78A90EF4068989508077E8D36458071.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_Player.uasset'
+[2023.10.30-02.08.47:614][751]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.10.30-02.08.47:627][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_Player.uasset" SILENT=true
+[2023.10.30-02.08.47:642][751]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerCAE0BBE74F83C6559A9D499BFED039AC.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_Player.uasset'
+[2023.10.30-02.08.48:085][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.10.30-02.08.48:434][841]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.08.48:579][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.10.30-02.08.48:879][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.10.30-02.09.08:579][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_Player.uasset" SILENT=true
+[2023.10.30-02.09.08:594][223]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerFB9A3CA84E4E17E41B7B1783DF04CC94.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_Player.uasset'
+[2023.10.30-02.09.08:728][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_Player.uasset" SILENT=true
+[2023.10.30-02.09.08:737][237]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerA483703B43C6CAC4873C74B17F48E77B.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_Player.uasset'
+[2023.10.30-02.09.14:920][953]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.10.30-02.09.14:924][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_Player.uasset" SILENT=true
+[2023.10.30-02.09.14:932][953]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerB896F22244EF1A84BE3F07BD08560D6B.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_Player.uasset'
+[2023.10.30-02.09.15:080][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_Player.uasset" SILENT=true
+[2023.10.30-02.09.15:088][968]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player748892554BCDB2F04C6988A1B768CA7D.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_Player.uasset'
+[2023.10.30-02.09.15:913][ 66]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.09.16:056][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.10.30-02.09.26:660][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Maps/GameLevel" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.30-02.09.26:688][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.10.30-02.09.26:817][329]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/GameLevel079A066947F0BDB0454571B2DD87A64F.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel.umap'
+[2023.10.30-02.09.26:837][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Maps/GameLevel_BuiltData" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel_BuiltData.uasset" SILENT=true
+[2023.10.30-02.09.26:840][329]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/GameLevel_BuiltDataCD492C63481188B72DC2358B30C79ED4.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel_BuiltData.uasset'
+[2023.10.30-02.09.26:948][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Maps/GameLevel" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.30-02.09.26:975][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.10.30-02.09.27:106][338]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/GameLevelDDBC1E73400E687C8DCF4E84B3F696E6.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel.umap'
+[2023.10.30-02.09.27:124][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Maps/GameLevel_BuiltData" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel_BuiltData.uasset" SILENT=true
+[2023.10.30-02.09.27:128][338]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/GameLevel_BuiltData1706B98C4E1F764EDA03FBB1F40E9929.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel_BuiltData.uasset'
+[2023.10.30-02.09.27:360][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Maps/GameLevel" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.30-02.09.27:386][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.10.30-02.09.27:518][362]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/GameLevel154CE3D04ED3A178B73C518560CA229E.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel.umap'
+[2023.10.30-02.09.27:537][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Maps/GameLevel_BuiltData" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel_BuiltData.uasset" SILENT=true
+[2023.10.30-02.09.27:540][362]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/GameLevel_BuiltData52A0D0C14675C3E11D35C8B437F36E3E.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel_BuiltData.uasset'
+[2023.10.30-02.09.32:396][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Maps/GameLevel" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.30-02.09.32:423][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.10.30-02.09.32:551][939]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/GameLevel6D855158406A27E48B2376BC76B4E6D4.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel.umap'
+[2023.10.30-02.09.32:568][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Maps/GameLevel_BuiltData" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel_BuiltData.uasset" SILENT=true
+[2023.10.30-02.09.32:570][939]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/GameLevel_BuiltData95CB0A9645C77978F63AABB522868CEC.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel_BuiltData.uasset'
+[2023.10.30-02.09.46:288][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Maps/GameLevel" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.30-02.09.46:316][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.30-02.09.46:442][578]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/GameLevel94DB68D7420A55974C3EDBAEAE30D865.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel.umap'
+[2023.10.30-02.09.46:461][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Maps/GameLevel_BuiltData" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel_BuiltData.uasset" SILENT=true
+[2023.10.30-02.09.46:464][578]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/GameLevel_BuiltData66F34F6341BB5815508F01A10DF2BB4C.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel_BuiltData.uasset'
+[2023.10.30-02.10.02:276][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Maps/GameLevel" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.30-02.10.02:301][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.10.30-02.10.02:430][368]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/GameLevelAF50ED55432D6DAB3EAED28FF66029FE.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel.umap'
+[2023.10.30-02.10.02:449][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Maps/GameLevel_BuiltData" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel_BuiltData.uasset" SILENT=true
+[2023.10.30-02.10.02:452][368]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/GameLevel_BuiltData3F37C2CD4759F80C5F9B05883A09A87A.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Maps/GameLevel_BuiltData.uasset'
+[2023.10.30-02.10.23:706][885]LogTexture: Display: 텍스처 빌드: T_Blade_GreatBlade1_M (AutoDXT, 512X512)
+[2023.10.30-02.10.23:706][885]LogTexture: Display: 텍스처 빌드: T_Blade_GreatBlade2_M (AutoDXT, 512X512)
+[2023.10.30-02.10.23:706][885]LogTexture: Display: 텍스처 빌드: T_Blade_GreatBlade1_N (BC5, 512X512)
+[2023.10.30-02.10.23:706][885]LogTexture: Display: 텍스처 빌드: T_Blade_GreatBlade2_N (BC5, 512X512)
+[2023.10.30-02.10.23:706][885]LogTexture: Display: 텍스처 빌드: T_Blade_GreatBlade1_D (AutoDXT, 512X512)
+[2023.10.30-02.10.23:706][885]LogTexture: Display: 텍스처 빌드: T_Blade_GreatBlade2_D (AutoDXT, 512X512)
+[2023.10.30-02.10.23:706][885]LogMaterial: Display: Missing cached shader map for material M_Blade_GreatBlade, compiling. 
+[2023.10.30-02.10.23:729][885]LogSkeletalMesh: Building Skeletal Mesh SK_Blade_GreatBlade...
+[2023.10.30-02.10.23:730][885]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Weapons/Blade_GreatBlade/SK_Blade_GreatBlade.SK_Blade_GreatBlade
+[2023.10.30-02.10.23:741][885]LogShaderCompilers: Display: Shaders left to compile 60
+[2023.10.30-02.10.23:741][885]LogShaderCompilers: Display: Shaders left to compile 50
+[2023.10.30-02.10.23:741][885]LogShaderCompilers: Display: Shaders left to compile 40
+[2023.10.30-02.10.23:741][885]LogShaderCompilers: Display: Shaders left to compile 30
+[2023.10.30-02.10.23:741][885]LogShaderCompilers: Display: Shaders left to compile 20
+[2023.10.30-02.10.23:741][885]LogShaderCompilers: Display: Shaders left to compile 10
+[2023.10.30-02.10.23:786][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Anim_Sword_Idle" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Anim_Sword_Idle.uasset" SILENT=true
+[2023.10.30-02.10.23:802][885]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Anim_Sword_Idle8C3029014F006FB54933FF832D5987D3.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Anim_Sword_Idle.uasset'
+[2023.10.30-02.10.23:939][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.10.30-02.10.23:970][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.10.30-02.10.23:996][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.10.30-02.10.24:018][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/ABP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/Characters/ABP_Player.uasset" SILENT=true
+[2023.10.30-02.10.24:071][885]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/ABP_PlayerD6EC999E4D14AB2C6B3364BCE7B29770.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/Characters/ABP_Player.uasset'
+[2023.10.30-02.10.24:093][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BS_Sword_Idle_Run" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/Characters/BS_Sword_Idle_Run.uasset" SILENT=true
+[2023.10.30-02.10.24:117][885]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BS_Sword_Idle_RunCFEFA90B4C012E4C665FC79C06E4D96D.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/Characters/BS_Sword_Idle_Run.uasset'
+[2023.10.30-02.10.24:123][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Intro/SQ_Intro_Warrior_AnimData" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/Sequences/Intro/SQ_Intro_Warrior_AnimData.uasset" SILENT=true
+[2023.10.30-02.10.24:143][885]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/SQ_Intro_Warrior_AnimData05C26D7B4B37F13F86B5CBA3F60EF0B4.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/Sequences/Intro/SQ_Intro_Warrior_AnimData.uasset'
+[2023.10.30-02.10.24:159][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.10.24:198][885]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnim591D1201448560A85A437F86C7DC2486.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/BP_PlayerAnim.uasset'
+[2023.10.30-02.10.33:573][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.10.30-02.10.36:654][327]LogRenderer: Reallocating scene render targets to support 868x1264 Format 10 NumSamples 1 (Frame:146).
+[2023.10.30-02.10.41:329][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.10.30-02.10.43:911][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Medium01)
+[2023.10.30-02.10.44:253][104]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.10.30-02.10.54:867][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.10.30-02.10.57:470][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Medium2)
+[2023.10.30-02.10.58:288][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.10.30-02.11.10:772][506]LogMetaData: Removing '/Game/0_UserGame/Blueprints/Hero/BP_Player.BP_Player:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/0_UserGame/Blueprints/BP_Player.PackageMetaData'
+[2023.10.30-02.11.10:772][506]LogMetaData: Removing '/Game/0_UserGame/Blueprints/Hero/BP_Player.BP_Player_C' ref from Metadata '/Game/0_UserGame/Blueprints/BP_Player.PackageMetaData'
+[2023.10.30-02.11.10:772][506]LogMetaData: Removing '/Game/0_UserGame/Blueprints/Hero/BP_Player.BP_Player:EventGraph.K2Node_Event_0' ref from Metadata '/Game/0_UserGame/Blueprints/BP_Player.PackageMetaData'
+[2023.10.30-02.11.10:772][506]LogMetaData: Removing '/Game/0_UserGame/Blueprints/Hero/BP_Player.BP_Player:EventGraph.K2Node_Event_1' ref from Metadata '/Game/0_UserGame/Blueprints/BP_Player.PackageMetaData'
+[2023.10.30-02.11.10:772][506]LogMetaData: Removing '/Game/0_UserGame/Blueprints/Hero/BP_Player.BP_Player:EventGraph.K2Node_Event_2' ref from Metadata '/Game/0_UserGame/Blueprints/BP_Player.PackageMetaData'
+[2023.10.30-02.11.10:772][506]LogMetaData: Removing '/Game/0_UserGame/Blueprints/Hero/BP_Player.SKEL_BP_Player_C' ref from Metadata '/Game/0_UserGame/Blueprints/BP_Player.PackageMetaData'
+[2023.10.30-02.11.10:772][506]LogMetaData: Removing '/Game/0_UserGame/Blueprints/Hero/BP_Player.SKEL_BP_Player_C:UserConstructionScript' ref from Metadata '/Game/0_UserGame/Blueprints/BP_Player.PackageMetaData'
+[2023.10.30-02.11.10:772][506]LogMetaData: Removing '/Game/0_UserGame/Blueprints/Hero/BP_Player.SKEL_BP_Player_C:ReceiveTick' ref from Metadata '/Game/0_UserGame/Blueprints/BP_Player.PackageMetaData'
+[2023.10.30-02.11.10:772][506]LogMetaData: Removing '/Game/0_UserGame/Blueprints/Hero/BP_Player.SKEL_BP_Player_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/0_UserGame/Blueprints/BP_Player.PackageMetaData'
+[2023.10.30-02.11.10:772][506]LogMetaData: Removing '/Game/0_UserGame/Blueprints/Hero/BP_Player.SKEL_BP_Player_C:ReceiveBeginPlay' ref from Metadata '/Game/0_UserGame/Blueprints/BP_Player.PackageMetaData'
+[2023.10.30-02.11.10:776][506]LogMetaData: Removing '/Game/0_UserGame/Blueprints/Hero/BP_PlayerAnim.BP_PlayerAnim_C' ref from Metadata '/Game/0_UserGame/Blueprints/BP_PlayerAnim.PackageMetaData'
+[2023.10.30-02.11.10:776][506]LogMetaData: Removing '/Game/0_UserGame/Blueprints/Hero/BP_PlayerAnim.BP_PlayerAnim:AnimGraph.AnimGraphNode_StateMachine_0.Hero.AnimStateTransitionNode_0.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/0_UserGame/Blueprints/BP_PlayerAnim.PackageMetaData'
+[2023.10.30-02.11.10:776][506]LogMetaData: Removing '/Game/0_UserGame/Blueprints/Hero/BP_PlayerAnim.BP_PlayerAnim:AnimGraph.AnimGraphNode_StateMachine_0.Hero.AnimStateNode_1.Sword_Run_Forward.AnimGraphNode_StateResult_0' ref from Metadata '/Game/0_UserGame/Blueprints/BP_PlayerAnim.PackageMetaData'
+[2023.10.30-02.11.10:776][506]LogMetaData: Removing '/Game/0_UserGame/Blueprints/Hero/BP_PlayerAnim.BP_PlayerAnim:AnimGraph.AnimGraphNode_StateMachine_0.Hero.AnimStateNode_0.Anim_Sword_Idle.AnimGraphNode_StateResult_0' ref from Metadata '/Game/0_UserGame/Blueprints/BP_PlayerAnim.PackageMetaData'
+[2023.10.30-02.11.10:776][506]LogMetaData: Removing '/Game/0_UserGame/Blueprints/Hero/BP_PlayerAnim.BP_PlayerAnim:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/0_UserGame/Blueprints/BP_PlayerAnim.PackageMetaData'
+[2023.10.30-02.11.10:776][506]LogMetaData: Removing '/Game/0_UserGame/Blueprints/Hero/BP_PlayerAnim.BP_PlayerAnim:AnimGraph.AnimGraphNode_StateMachine_0.Hero.AnimStateEntryNode_0' ref from Metadata '/Game/0_UserGame/Blueprints/BP_PlayerAnim.PackageMetaData'
+[2023.10.30-02.11.10:776][506]LogMetaData: Removing '/Game/0_UserGame/Blueprints/Hero/BP_PlayerAnim.SKEL_BP_PlayerAnim_C' ref from Metadata '/Game/0_UserGame/Blueprints/BP_PlayerAnim.PackageMetaData'
+[2023.10.30-02.11.10:776][506]LogMetaData: Removing '/Game/0_UserGame/Blueprints/Hero/BP_PlayerAnim.BP_PlayerAnim:AnimGraph.AnimGraphNode_StateMachine_0.Hero.AnimStateTransitionNode_1.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/0_UserGame/Blueprints/BP_PlayerAnim.PackageMetaData'
+[2023.10.30-02.11.10:781][506]LogMetaData: Removing '/Game/0_UserGame/Blueprints/Hero/Enum_PlayerState.Enum_PlayerState' ref from Metadata '/Game/0_UserGame/Blueprints/Enum_PlayerState.PackageMetaData'
+[2023.10.30-02.11.10:805][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/Anim_Sword_Idle" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/Anim_Sword_Idle.uasset" SILENT=true
+[2023.10.30-02.11.10:816][506]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Anim_Sword_IdleEF7D1251400D255A430C55907E9C46FB.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/Anim_Sword_Idle.uasset'
+[2023.10.30-02.11.10:826][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.11.10:841][506]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerE904E3894AEBAD77A605A4BA88A77879.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.11.10:852][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_PlayerAnim" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_PlayerAnim.uasset" SILENT=true
+[2023.10.30-02.11.10:878][506]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerAnimFE8F528E4E628F976E7EB0A16FC9A684.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_PlayerAnim.uasset'
+[2023.10.30-02.11.10:881][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/Enum_PlayerState" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/Enum_PlayerState.uasset" SILENT=true
+[2023.10.30-02.11.10:909][506]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/Enum_PlayerState9C87CF3E4E883C572177529D02C20EA8.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/Enum_PlayerState.uasset'
+[2023.10.30-02.11.11:225][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.10.30-02.11.11:253][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.10.30-02.11.11:278][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.10.30-02.11.11:303][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.10.30-02.11.11:329][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.10.30-02.11.11:351][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.10.30-02.11.11:369][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/ABP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/Characters/ABP_Player.uasset" SILENT=true
+[2023.10.30-02.11.11:406][506]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/ABP_PlayerFFE529DB4EA9CD9879D744B8FB6D32E8.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/Characters/ABP_Player.uasset'
+[2023.10.30-02.11.11:409][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BS_Sword_Idle_Run" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/Characters/BS_Sword_Idle_Run.uasset" SILENT=true
+[2023.10.30-02.11.11:413][506]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BS_Sword_Idle_RunE162486D4A7D643FCED02B80FD8CD4A7.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/Characters/BS_Sword_Idle_Run.uasset'
+[2023.10.30-02.11.11:416][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Intro/SQ_Intro_Warrior_AnimData" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/Sequences/Intro/SQ_Intro_Warrior_AnimData.uasset" SILENT=true
+[2023.10.30-02.11.11:426][506]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/SQ_Intro_Warrior_AnimDataAC8849C8440395DB5DDF50A93C6EC96F.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/Sequences/Intro/SQ_Intro_Warrior_AnimData.uasset'
+[2023.10.30-02.11.21:070][646]LogRenderer: Reallocating scene render targets to support 992x1264 Format 10 NumSamples 1 (Frame:12891).
+[2023.10.30-02.12.05:644][969]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/0_UserGame/Blueprints/Hero/BP_Player.BP_Player
+[2023.10.30-02.12.42:930][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.10.30-02.12.49:616][184]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.10.30-02.12.49:627][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.12.49:643][184]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player0115C467430D337A30BF48913D0748A5.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.12.49:977][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.10.30-02.13.05:053][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.10.30-02.13.05:145][893]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.13.05:296][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.10.30-02.13.06:777][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.10.30-02.13.10:253][482]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.10.30-02.13.14:390][974]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.13.14:517][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.10.30-02.13.15:329][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.10.30-02.13.15:347][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.13.15:363][ 67]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player35B7A6794B159D611DD4758D1285D8A2.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.13.15:671][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.10.30-02.13.16:250][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.10.30-02.13.51:790][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.10.30-02.14.11:110][438]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.14.11:236][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.10.30-02.14.17:912][218]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2023.10.30-02.14.18:756][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.14.18:772][290]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerC4D9BA724496A057C0FCBA9F3602C5DF.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.14.24:681][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.14.24:697][992]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerB2F11664410164BAF720829BD7DB5FF2.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.14.24:833][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.14.24:842][  6]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerA85F43A14E62E138C440A6983FA406C2.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.14.24:983][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.14.24:992][ 21]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerC36FA8B34AA3F9F31D00F794C8CF6B39.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.26.17:655][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.10.30-02.26.17:721][337]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.26.17:905][337]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2023.10.30-02.26.18:264][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.10.30-02.26.19:281][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.10.30-02.26.58:262][701]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.10.30-02.27.02:891][248]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.27.03:046][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.10.30-02.27.10:196][668]LogSlate: Window '색 선택 툴' being destroyed
+[2023.10.30-02.27.15:213][267]LogSlate: Window '색 선택 툴' being destroyed
+[2023.10.30-02.27.18:217][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.10.30-02.27.29:082][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.10.30-02.27.29:095][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.27.29:112][338]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player4431DDB04A5BEDF91041FA9AC5CD4A97.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.27.29:243][351]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.10.30-02.27.29:247][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.27.29:257][351]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player499F7E4B4F93A935B7782A8537A36505.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.27.29:509][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.10.30-02.27.29:758][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.10.30-02.27.29:849][417]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.27.29:999][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.10.30-02.27.46:123][336]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.27.46:274][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.10.30-02.27.46:872][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.10.30-02.27.46:890][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.27.46:907][399]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player19C77C144937BB0C0DE7D99737118E51.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.27.47:642][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.10.30-02.27.52:366][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.10.30-02.27.52:370][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.27.52:380][ 42]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player6E34042C4CAE804DC0E184A4DE8E89DF.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.27.52:544][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.27.52:554][ 59]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerD40BF9B341CE0EFA27185C88C7077B99.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.27.53:126][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.10.30-02.28.03:990][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.28.04:007][414]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player86053B714A59137841F8AA94FD417136.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.28.04:144][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.28.04:154][428]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player856B112B4BE9FE7DE07B018A40552FC2.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.28.04:688][491]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.28.04:839][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.10.30-02.28.24:282][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.28.24:299][808]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerFE4E1A6F4932C279103576B4019777C0.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.28.24:428][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.28.24:439][821]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerB0B457B9427578ABE21697A5AC1B2E66.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.28.31:290][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.10.30-02.28.31:584][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.10.30-02.28.31:675][675]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.28.31:825][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.10.30-02.28.33:241][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.10.30-02.29.04:866][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.10.30-02.29.54:279][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.29.54:296][392]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerCD4C938C492A22D249116A824A690C91.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.29.57:133][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.29.57:151][729]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player8106DD8B4D56AB3A244640BC5E89219A.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.29.57:275][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.29.57:287][742]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player02174EE94930B9935F9EB1ADDD61E9E1.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.29.58:509][887]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.29.58:660][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.10.30-02.30.06:184][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.30.06:200][780]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerDB25722A4CE244A21F7F3FBEBC8BCD11.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.30.06:313][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.30.06:324][791]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player6A4C0FED44336202BC2185850999E4D9.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.30.13:271][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.30.13:288][621]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerB219321949FD26014CAAB298004E0F11.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.30.13:412][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.30.13:423][634]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerE065255B4F9ED09CFC4D919785D29E9C.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.30.20:596][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.30.20:613][491]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player432EFB404EF24F2E80182BAA9F577B99.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.30.20:729][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.30.20:740][503]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerEA0560DA468ED2E31CCA0195386226D8.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.30.28:483][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.10.30-02.30.28:583][436]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.30.28:735][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.10.30-02.30.34:117][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.10.30-02.30.47:683][683]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.30.47:834][683]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.10.30-02.31.11:724][537]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.31.11:879][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.10.30-02.31.27:414][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.31.27:432][381]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerE5DEDE6142D3821E796E00A4020A156E.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.31.27:719][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.10.30-02.31.28:635][521]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.31.28:787][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.10.30-02.32.25:675][306]LogTexture: Display: 텍스처 빌드: T_Blade_Hatchet021_M (AutoDXT, 512X512)
+[2023.10.30-02.32.25:675][306]LogTexture: Display: 텍스처 빌드: T_Blade_Hatchet022_M (AutoDXT, 512X512)
+[2023.10.30-02.32.25:676][306]LogTexture: Display: 텍스처 빌드: T_Blade_Hatchet021_N (BC5, 512X512)
+[2023.10.30-02.32.25:676][306]LogTexture: Display: 텍스처 빌드: T_Blade_Hatchet022_N (BC5, 512X512)
+[2023.10.30-02.32.25:676][306]LogTexture: Display: 텍스처 빌드: T_Blade_Hatchet022_D (AutoDXT, 512X512)
+[2023.10.30-02.32.25:676][306]LogTexture: Display: 텍스처 빌드: T_Blade_Hatchet021_D (AutoDXT, 512X512)
+[2023.10.30-02.32.25:676][306]LogSkeletalMesh: Building Skeletal Mesh SK_Blade_Hatchet02...
+[2023.10.30-02.32.25:676][306]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Weapons/Blade_Hatchet02/SK_Blade_Hatchet02.SK_Blade_Hatchet02
+[2023.10.30-02.32.25:710][306]LogMaterial: Display: Missing cached shader map for material M_Blade_Hatchet02, compiling. 
+[2023.10.30-02.32.25:739][306]LogShaderCompilers: Display: Shaders left to compile 60
+[2023.10.30-02.32.25:740][306]LogShaderCompilers: Display: Shaders left to compile 50
+[2023.10.30-02.32.25:740][306]LogShaderCompilers: Display: Shaders left to compile 40
+[2023.10.30-02.32.25:740][306]LogShaderCompilers: Display: Shaders left to compile 30
+[2023.10.30-02.32.25:740][306]LogShaderCompilers: Display: Shaders left to compile 20
+[2023.10.30-02.32.25:740][306]LogShaderCompilers: Display: Shaders left to compile 10
+[2023.10.30-02.32.26:281][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.32.26:309][362]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player2F15C97F43ED197E413CFDBDA54CB503.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.32.26:603][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.32.26:621][388]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player108B8DD143D6A3D47E8624965C99AE65.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.32.26:732][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.32.26:752][396]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player72F7CFA54630CEC0700056BD8303639D.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.32.29:978][758]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.32.30:132][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.10.30-02.32.49:314][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.10.30-02.32.49:328][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.32.49:348][ 48]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player1014376D4BD9C5EAC0737786D0E10CC5.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.32.49:753][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.10.30-02.32.50:409][167]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.32.50:563][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.10.30-02.32.50:970][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.10.30-02.33.11:296][587]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.10.30-02.33.11:308][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.33.11:327][587]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player73F91F8D47F5758DE1B595995AE936E0.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.33.11:454][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.33.11:468][599]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerDAA9ABD64D6452BE08BA7880C2DAD00F.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.33.11:764][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.10.30-02.33.12:588][729]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.33.12:753][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.10.30-02.33.27:803][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.33.27:825][516]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player7A27AEF648426E14EB07D58E4C4E3D3A.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.33.27:939][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.33.27:951][527]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player5B7486FF4D55CBFAC1B596B1A7292F33.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.33.33:015][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.10.30-02.33.33:115][123]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.33.33:269][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.10.30-02.33.44:092][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.10.30-02.33.51:325][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.33.51:344][259]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player5F239EBD499FE0927E7F489D179D0362.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.33.51:488][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.33.51:500][274]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerCD4FDC534FDA622AC69A548F89D76F31.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.33.51:628][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.33.51:641][287]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerD1AFF9F64B3670D938F6C993EFF2269A.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.33.53:106][461]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.33.53:263][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2023.10.30-02.33.58:958][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.10.30-02.34.00:853][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.10.30-02.34.00:874][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.34.00:892][338]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player619BFF744CE37CA81B334DAA664653E7.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.34.01:949][463]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.34.02:101][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.10.30-02.34.07:709][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.10.30-02.34.07:728][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.34.07:747][126]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player6669B3D243E3350A5EF8DAA5544858B1.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.34.08:567][223]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.34.08:717][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.10.30-02.34.16:639][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.10.30-02.34.16:894][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.10.30-02.34.21:337][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.34.21:356][707]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_PlayerB77F4C8545A32233D2C39784FA2C79BB.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.34.21:473][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_UserGame/Blueprints/Hero/BP_Player" FILE="D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset" SILENT=true
+[2023.10.30-02.34.21:485][719]LogSavePackage: Moving 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Saved/BP_Player159E2B1D40AE4EBCEA5DAFABA3DB7FA1.tmp' to 'D:/H_Hoon Unreal Engine/Step_1_ActionRPG/Content/0_UserGame/Blueprints/Hero/BP_Player.uasset'
+[2023.10.30-02.34.21:784][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.10.30-02.34.22:139][793]BlueprintLog: New page: BP_Player 컴파일
+[2023.10.30-02.34.22:293][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.10.30-02.34.22:745][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.10.30-03.35.30:333][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.10.30-03.57.52:944][422]LogD3D11RHI: Error: Device->CreateBuffer(&Desc, NULL, UniformBufferResource.GetInitReference()) failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11UniformBuffer.cpp:149 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_RESET
+[2023.10.30-03.57.52:945][422]LogD3D11RHI: [Aftermath] GDynamicRHI=000002BC4D82A0C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2023.10.30-03.57.52:945][422]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)
+[2023.10.30-03.57.54:628][424]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.10.30-03.57.54:628][424]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)
+[2023.10.30-03.57.54:628][424]LogWindows: Error: === Critical error: ===
+[2023.10.30-03.57.54:628][424]LogWindows: Error: 
+[2023.10.30-03.57.54:628][424]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 819] 
+[2023.10.30-03.57.54:628][424]LogWindows: Error: Rendering thread exception:
+[2023.10.30-03.57.54:628][424]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp] [Line: 198] 
+[2023.10.30-03.57.54:628][424]LogWindows: Error: Unreal Engine is exiting due to D3D device being lost. (Error: 0x887A0007 - 'RESET')
+[2023.10.30-03.57.54:628][424]LogWindows: Error: 
+[2023.10.30-03.57.54:628][424]LogWindows: Error: 
+[2023.10.30-03.57.54:628][424]LogWindows: Error: Unhandled Exception: 0x00008000
+[2023.10.30-03.57.54:628][424]LogWindows: Error: 
+[2023.10.30-03.57.54:628][424]LogWindows: Error: [Callstack] 0x00007ff97d5fcf19 KERNELBASE.dll!UnknownFunction []
+[2023.10.30-03.57.54:628][424]LogWindows: Error: [Callstack] 0x00007ff92ff93667 UE4Editor-Core.dll!UnknownFunction []
+[2023.10.30-03.57.54:628][424]LogWindows: Error: [Callstack] 0x00007ff92ff946e0 UE4Editor-Core.dll!UnknownFunction []
+[2023.10.30-03.57.54:628][424]LogWindows: Error: [Callstack] 0x00007ff92fda7d1a UE4Editor-Core.dll!UnknownFunction []
+[2023.10.30-03.57.54:628][424]LogWindows: Error: [Callstack] 0x00007ff92fd2fe33 UE4Editor-Core.dll!UnknownFunction []
+[2023.10.30-03.57.54:628][424]LogWindows: Error: [Callstack] 0x00007ff92fd2fd18 UE4Editor-Core.dll!UnknownFunction []
+[2023.10.30-03.57.54:628][424]LogWindows: Error: [Callstack] 0x00007ff954bd2a23 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2023.10.30-03.57.54:628][424]LogWindows: Error: [Callstack] 0x00007ff954bd629e UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2023.10.30-03.57.54:628][424]LogWindows: Error: [Callstack] 0x00007ff954ba9541 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2023.10.30-03.57.54:628][424]LogWindows: Error: [Callstack] 0x00007ff954bc06a5 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2023.10.30-03.57.54:628][424]LogWindows: Error: [Callstack] 0x00007ff9546a7271 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2023.10.30-03.57.54:628][424]LogWindows: Error: [Callstack] 0x00007ff9546ae2bb UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2023.10.30-03.57.54:628][424]LogWindows: Error: [Callstack] 0x00007ff9546b5cfa UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2023.10.30-03.57.54:628][424]LogWindows: Error: [Callstack] 0x00007ff9546be220 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2023.10.30-03.57.54:628][424]LogWindows: Error: [Callstack] 0x00007ff92fbb22d8 UE4Editor-Core.dll!UnknownFunction []
+[2023.10.30-03.57.54:629][424]LogWindows: Error: [Callstack] 0x00007ff92fbb2563 UE4Editor-Core.dll!UnknownFunction []
+[2023.10.30-03.57.54:629][424]LogWindows: Error: [Callstack] 0x00007ff94def59f1 UE4Editor-RenderCore.dll!UnknownFunction []
+[2023.10.30-03.57.54:629][424]LogWindows: Error: [Callstack] 0x00007ff94defc184 UE4Editor-RenderCore.dll!UnknownFunction []
+[2023.10.30-03.57.54:629][424]LogWindows: Error: [Callstack] 0x00007ff92ffa4b3f UE4Editor-Core.dll!UnknownFunction []
+[2023.10.30-03.57.54:629][424]LogWindows: Error: [Callstack] 0x00007ff92ffa08a7 UE4Editor-Core.dll!UnknownFunction []
+[2023.10.30-03.57.54:629][424]LogWindows: Error: [Callstack] 0x00007ff97f1e7344 KERNEL32.DLL!UnknownFunction []
+[2023.10.30-03.57.54:629][424]LogWindows: Error: [Callstack] 0x00007ff97f8c26b1 ntdll.dll!UnknownFunction []
+[2023.10.30-03.57.54:629][424]LogWindows: Error: 
+[2023.10.30-03.57.54:629][424]LogWindows: Error: 
+[2023.10.30-03.57.54:629][424]LogWindows: Error: 
+[2023.10.30-03.57.54:629][424]LogWindows: Error: 
+[2023.10.30-03.57.54:683][424]LogExit: Executing StaticShutdownAfterError
+[2023.10.30-03.57.54:689][424]LogWindows: FPlatformMisc::RequestExit(1)
+[2023.10.30-03.57.54:745][424]Log file closed, 10/30/23 12:57:54
